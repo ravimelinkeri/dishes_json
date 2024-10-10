@@ -1,6 +1,6 @@
 [
     {
-    "Chicken Tikka Masala" : {
+    "name" : {
 
             "id": 1,
             "img": "Dishes Images/Chicken tikkaa  masala.jpg",
@@ -32,7 +32,7 @@
 
 
     {
-        "Butter Chicken" : {
+        "name" : {
             "id": 2,
             "img": "Dishes Images/butter chicken.jpg",
             "Dish": "Butter Chicken ",
@@ -61,7 +61,7 @@
     },
 
     {
-        "Palak Chicken" : {
+        "name" : {
             "id": 3,
             "img": "Dishes Images/palak chicken.jpg",
             "Dish": "Palak Chicken",
