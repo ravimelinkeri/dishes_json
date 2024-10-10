@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 22,
+        "img": "Dishes Images/chana masala.jpg",
+        "Dish": "Chana Masala",
+        "Dishname": "Chana_Masala",
+        "typeofDish": "Veg",
+        "preparationTime": "10 Minutes",
+        "cockingTime": "40 minutes ",
+        "totalTime": " 50 minutes",
+        "Serving": "4 servings",
+        "ingredients": "2 cups chickpeas (soaked overnight or use canned), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp chana masala powder (optional), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "If using soaked chickpeas, pressure cook them with salt until soft (4-5 whistles). If using canned, drain and rinse. ",
+            "Heat oil in a pan and add cumin seeds. Once they splutter, add onions and sauté until golden brown.",
+            "Add ginger-garlic paste and green chili. Sauté for a minute.  Add tomato puree and cook until oil separates.",
+            "Add turmeric, coriander powder, red chili powder, and chana masala. Mix well and cook for 2-3 minutes.",
+            " Add the cooked chickpeas and enough water to reach the desired consistency. Simmer for 15-20 minute",
+            "Stir in garam masala and garnish with fresh cilantro.  Serve hot with rice or roti."
+        ],
+        "nurtrition": {
+            "Calories":"270 kcal",
+            "Protein":" 12g",
+            "Fat":"7g",
+            "Fiber":"10g",
+            "Carbohydrates":"38g"
+        }
+    }
+
+]

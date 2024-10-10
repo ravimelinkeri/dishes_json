@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 20,
+        "img": "Dishes Images/chicken haleem.jpg",
+        "Dish": "Chicken Haleem",
+        "Dishname": "Chicken_Haleem",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "15 Minutes",
+        "cockingTime": "1 Hour 30 Minutes",
+        "totalTime": "1 Hour 45 minutes",
+        "Serving": "4 servings",
+        "ingredients": "1/2 cup broken wheat (Dalia), 1/2 cup split chickpeas (chana dal), 1/2 cup yellow lentils (moong dal), 500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 teaspoon cumin seeds, 2 large onions, finely sliced, 2 tomatoes, chopped, 4 cups chicken broth or water, 2 tablespoons ghee or oil, Fresh coriander leaves and fried onions for garnish, Lemon wedges for serving, Salt to taste.",
+        "instructions": [
+            "Rinse the broken wheat, split chickpeas, and yellow lentils thoroughly. Soak them in water for at least 1 hour, then drain. ",
+            "Heat ghee or oil in a large pot over medium heat. Add cumin seeds and let them sizzle. Add sliced onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. ",
+            "Add chopped tomatoes and cook until they soften and the oil starts separating. Add red chili powder, turmeric powder, ground coriander, and salt. Mix well. Add the chicken pieces and cook until browned. Add yogurt and mix well. Cook for a few minutes until the chicken is coated with the spices. ",
+            "Add the soaked and drained grains and lentils to the pot. Pour in chicken broth or water, stir well, and bring to a boil. Reduce the heat, cover, and simmer for 1.5 to 2 hours, stirring occasionally, until the grains and lentils are very soft and the mixture has thickened.",
+            "Use an immersion blender to blend the mixture until smooth and creamy. Alternatively, you can transfer it in batches to a blender.",
+            "Stir in garam masala and cook for an additional 5 minutes. Garnish with fresh coriander leaves and fried onions. Serve hot with lemon wedges and naan or roti. "
+        ],
+        "nurtrition": {
+            "Calories":"500 kcal",
+            "Protein":" 35g",
+            "Fat":"20g",
+            "Fiber":"10g",
+            "Carbohydrates":"45g"
+        }
+    }
+
+]

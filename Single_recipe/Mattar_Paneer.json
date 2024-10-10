@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 26,
+        "img": "Dishes Images/mattar paneer.jpeg",
+        "Dish": "Mattar Paneer",
+        "Dishname": "Mattar_Paneer",
+        "typeofDish": "Veg",
+        "preparationTime": "15 minutes",
+        "cockingTime": "25 minutes",
+        "totalTime": "40 minutes",
+        "Serving": "4 servings",
+        "ingredients": "250g paneer (cubed), 1 cup green peas (fresh or frozen), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, ½ cup fresh cream or yogurt (optional), 2 tbsp oil, Salt to taste. ",
+        "instructions": [
+            "Heat oil in a pan, add cumin seeds and let them splutter. ",
+            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+            "Add tomato puree and cook until the oil separates. ",
+            "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add green peas and some water. Cook for about 5-7 minutes. ",
+            "Add paneer cubes and garam masala. Let it simmer for 5 minutes. ",
+            "Stir in cream or yogurt, simmer for another 2 minutes. Serve hot with roti, naan, or rice. "
+        ],
+        "nurtrition": {
+            "Calories":"300 kcal",
+            "Protein":" 12g",
+            "Fat":"20g",
+            "Fiber":"5g",
+            "Carbohydrates":"18g"
+        }
+    }
+
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 34,
+        "img": "Dishes Images/paneer tikka.jpg",
+        "Dish": "Paneer Tikka",
+        "Dishname": "Paneer_Tikka",
+        "typeofDish": "Veg",
+        "preparationTime": "15 minutes",
+        "cockingTime": "15 minutes",
+        "totalTime": "30 minutes",
+        "Serving": "4 servings",
+        "ingredients": "250g paneer (cubed), 1/2 cup yogurt, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 1 tbsp ginger-garlic paste, 1 onion (cut into large chunks), 1 bell pepper (cut into chunks), 1 tomato (cut into chunks), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "In a bowl, mix yogurt, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala, ginger-garlic paste, lemon juice, and salt.",
+            "Add paneer cubes, onion, bell pepper, and tomato to the marinade. Mix well and let it marinate for 1 hour.",
+            "Skewer the marinated paneer and vegetables alternately on skewers. ",
+            "Heat a grill pan or use a barbecue, brush with oil.",
+            " And grill the paneer skewers until golden and slightly charred on all sides. ",
+            "Serve hot, garnished with cilantro and lemon wedges. "
+        ],
+        "nurtrition": {
+            "Calories":"300 kcal",
+            "Protein":" 14g",
+            "Fat":"20g",
+            "Fiber":"7g",
+            "Carbohydrates":"16g"
+        }
+    }
+
+]

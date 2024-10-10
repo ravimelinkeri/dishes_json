@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 11,
+        "img": "Dishes Images/chicken 65.jpg",
+        "Dish": " Chicken 65",
+        "Dishname": "Chicken_65",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "15 minutes ",
+        "cockingTime": "1 hour + 20 minutes ",
+        "totalTime": " 1 hour 35 minutes ",
+        "Serving": "4 servings",
+        "ingredients": "500g chicken (boneless, cut into bite-sized pieces),1/2 cup yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon garam masala,1 tablespoon lemon juice, 1/2 cup all-purpose flour, 1/4 cup cornstarch, 1/2 teaspoon red chili powder, 1/2 teaspoon black pepper powder, Oil for deep frying, Fresh curry leaves, Lemon wedges, Sliced onions, Salt to taste. ",
+        "instructions": [
+            " In a large bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Add the chicken pieces and mix well to coat them evenly. Cover and refrigerate for at least 1 hour. ",
+            " In a separate bowl, mix all-purpose flour, cornstarch, red chili powder, black pepper powder, and salt. ",
+            " Remove the marinated chicken from the refrigerator. Dredge each piece of chicken in the flour mixture, ensuring an even coating. ",
+            "Heat oil in a deep-frying pan or wok over medium heat. Fry the coated chicken pieces in batches, making sure not to overcrowd the pan.  ",
+            "Fry until golden brown and crispy, about 4-5 minutes per batch.Remove the fried chicken with a slotted spoon and drain on paper towels. ",
+            " In a small pan, heat a little oil and fry fresh curry leaves until crisp. Garnish the fried chicken with the crispy curry leaves, lemon wedges, and sliced onions. Serve hot as a snack or appetizer. "
+        ],
+        "nurtrition": {
+            "Calories":"350 kcal",
+            "Protein":" 25g",
+            "Fat":"20g",
+            "Fiber":"2g",
+            "Carbohydrates":"20g"
+        }
+    }
+
+]

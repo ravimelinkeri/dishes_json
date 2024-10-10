@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 15,
+        "img": "Dishes Images/fish tikka.jpg",
+        "Dish": " Fish Tikka",
+        "Dishname": "Fish_Tikka",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "15 minutes",
+        "cockingTime": " 1 hour (Marination Time) + 15 minutes ",
+        "totalTime": " 1 hour 30 minutes ",
+        "Serving": "4 servings",
+        "ingredients": "500g firm white fish (such as cod, haddock, or tilapia), cut into chunks, 1/2 cup plain yogurt,2 tablespoons lemon juice, 1 tablespoon ginger-garlic paste,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder,1 teaspoon ground coriander,1 teaspoon garam masala, 1/2 teaspoon cumin powder, 1/2 teaspoon paprika (for color), Fresh coriander leaves, Lemon wedges, Sliced onions, Salt to taste. ",
+        "instructions": [
+            " In a bowl, mix yogurt, lemon juice, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, cumin powder, paprika, and salt.  ",
+            "Add the fish pieces and coat them well with the marinade. Cover and refrigerate for at least 1 hour. ",
+            " Preheat your grill or oven to 200°C (400°F). If using a grill, ensure it is preheated and well-oiled. ",
+            " If using a grill, thread the marinated fish pieces onto skewers. Grill the fish for 10-15 minutes, turning occasionally, until it is cooked through and has a nice charred surface. ",
+            "If using an oven, place the fish pieces on a baking tray lined with foil or parchment paper. Bake for 12-15 minutes, or until the fish is cooked through and slightly charred. ",
+            "Garnish with fresh coriander leaves, lemon wedges, and sliced onions. Serve hot with naan, roti, or as an appetizer with mint chutney. "
+        ],
+        "nurtrition": {
+            "Calories":"250 kcal",
+            "Protein":" 30g",
+            "Fat":"10g",
+            "Fiber":"2g",
+            "Carbohydrates":"10g"
+        }
+    }
+
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 50,
+        "img": "Dishes Images/fish pepper fry.jpg",
+        "Dish": "Fish Peppar Fry",
+        "Dishname": "Fish_Peppar_Fry",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "10 minutes",
+        "cockingTime": "20 minutes",
+        "totalTime": "30 minutes",
+        "Serving": "4 servings",
+        "ingredients": "500g fish fillets (cleaned and cut into pieces), 1 onion (sliced), 1 tbsp ginger-garlic paste, 2-3 green chilies (slit), 1 tsp black pepper powder, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh curry leaves for garnish, Lemon wedges for serving.",
+        "instructions": [
+            "Heat oil in a pan, add sliced onions, and sauté until golden brown.",
+            "Add ginger-garlic paste and green chilies, and cook for a minute.",
+            "Add fish pieces, turmeric powder, red chili powder, coriander powder, black pepper powder, and salt. ",
+            "Cook gently on medium heat for 5-7 minutes.",
+            " Turn the fish pieces carefully and cook until done.",
+            "Garnish with fresh curry leaves and serve with lemon wedges."
+        ],
+        "nurtrition": {
+            "Calories":"250 kcal",
+            "Protein":" 30g",
+            "Fat":"18g",
+            "Fiber":"2g",
+            "Carbohydrates":"6g"
+        }
+    }
+
+]

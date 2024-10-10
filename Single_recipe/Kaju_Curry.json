@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 40,
+        "img": "Dishes Images/kaju curry.jpg",
+        "Dish": "Kaju Curry",
+        "Dishname": "Kaju_Curry",
+        "typeofDish": "Veg",
+        "preparationTime": "10 miutes",
+        "cockingTime": "20 minutes",
+        "totalTime": "30 minutes",
+        "Serving": "4 servings",
+        "ingredients": "½ cup cashew nuts, 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
+        "instructions": [
+            "Heat oil in a pan, add cumin seeds and let them splutter. ",
+            "Add chopped onions and sauté until golden brown.",
+            "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates.",
+            "Add turmeric, coriander powder, and salt. Mix well. Add cashew nuts and cook for 5 minutes.",
+            "Sprinkle garam masala and stir well. Cook for another 2 minutes.",
+            "Garnish with fresh cream (optional) and serve hot with roti or rice. "
+        ],
+        "nurtrition": {
+            "Calories":"400 kcal",
+            "Protein":" 8g",
+            "Fat":"30g",
+            "Fiber":"4g",
+            "Carbohydrates":"24g"
+        }
+    }
+
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 37,
+        "img": "Dishes Images/matar mushroom.jpg",
+        "Dish": "Matar Mushroom",
+        "Dishname": "Matar_Mushroom",
+        "typeofDish": "Veg",
+        "preparationTime": "10 minutes",
+        "cockingTime": "25 minutes",
+        "totalTime": "35 minutes",
+        "Serving": "4 servings",
+        "ingredients": "1 cup green peas (fresh or frozen), 200g mushrooms (sliced), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (chopped), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "Heat oil in a pan and add cumin seeds. ",
+            "Add chopped onions and sauté until golden brown. ",
+            "Add ginger-garlic paste and green chili, sauté for a minute. ",
+            "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, and salt. Stir well. ",
+            "Add green peas and mushrooms, and cook for 10-12 minutes until the vegetables are tender. ",
+            "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice. "
+        ],
+        "nurtrition": {
+            "Calories":"180 kcal",
+            "Protein":" 6g",
+            "Fat":"10g",
+            "Fiber":"4g",
+            "Carbohydrates":"18g"
+        }
+    }
+
+]

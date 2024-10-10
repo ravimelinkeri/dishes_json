@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 9,
+        "img": "Dishes Images/Seekh kabab.jpg",
+        "Dish": " Seekh Kebab ",
+        "Dishname": "Seekh_Kebab",
+        "typeofDish": "Non-Veg",
+        "preparationTime": " 20 minutes",
+        "cockingTime": "1 hour (Marination Time ) + 20 minutes",
+        "totalTime": " 1 hour 40 minutes",
+        "Serving": "4 servings",
+        "ingredients": "500g minced lamb or chicken, 1 medium onion, finely chopped, 1 tablespoon ginger-garlic paste, 2 green chilies, finely chopped, 1 tablespoon coriander powder, 1 teaspoon cumin powder, 1 teaspoon garam masala, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 tablespoon lemon juice,1/4 cup fresh coriander leaves, finely chopped,1/4 cup fresh mint leaves, finely chopped, 1 tablespoon vegetable oil or melted butter (for basting), Salt to taste. ",
+        "instructions": [
+            " In a large mixing bowl, combine minced meat (lamb or chicken), chopped onions, ginger-garlic paste, green chilies, coriander powder, cumin powder, garam masala, red chili powder, turmeric powder, lemon juice, fresh coriander, fresh mint, and salt.",
+            "Mix everything thoroughly until well combined.- Cover the mixture and refrigerate for at least 1 hour to allow the Flavors to develop. ",
+            "Once the mixture is marinated, take small portions of the meat mixture and mold it around metal or wooden skewers, shaping it into long kebabs. If using wooden skewers, soak them in water for 30 minutes to prevent burning. ",
+            " Preheat a grill or oven to 200°C (400°F). If grilling, place the kebabs on the hot grill and cook for 15-20 minutes, turning occasionally, until they are cooked through and lightly charred. ",
+            "If using an oven, place the skewers on a baking tray lined with foil and bake for 20 minutes, turning once halfway through. Baste the kebabs with oil or melted butter during cooking to keep them moist. ",
+            " Serve the seekh kebabs hot with mint chutney, lemon wedges, and sliced onions. They can also be served with naan or as a filling for wraps. "
+        ],
+        "nurtrition": {
+            "Calories":"300 kcal",
+            "Protein":" 25g",
+            "Fat":"18g",
+            "Fiber":"2g",
+            "Carbohydrates":"6g"
+        }
+    }
+
+]

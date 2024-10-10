@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 47,
+        "img": "Dishes Images/chicken dum biryani.jpg",
+        "Dish": "Chicken Dum Biryani",
+        "Dishname": "Chicken_Dum_Biryani",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "30 minutes",
+        "cockingTime": "1 hour",
+        "totalTime": " 1 hour 30 minutes ",
+        "Serving": "4 servings",
+        "ingredients": "500g chicken (bone-in), 2 cups basmati rice (soaked for 30 minutes), 2 onions (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, ½ cup yogurt, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp biryani masala, 4 tbsp oil or ghee, Salt to taste, Fresh mint and cilantro for garnish, Saffron strands soaked in warm milk.",
+        "instructions": [
+            "Heat oil or ghee in a pan, fry sliced onions until golden brown, and set aside.",
+            "In the same pan, add ginger-garlic paste, green chilies, and chicken pieces. Cook until browned. Add turmeric powder, red chili powder, biryani masala, and salt. Stir well.",
+            "Add tomatoes and yogurt, and cook until the oil separates and the chicken is cooked through.  Meanwhile, cook the rice in boiling water until 70% done. Drain and set aside.",
+            "In a large pot, layer half the rice, then the chicken mixture, and top with the remaining rice.",
+            "Drizzle saffron milk, fried onions, and garnish with mint and cilantro. Cover with a tight-fitting lid and cook on low heat (Dum) for 20 minutes. ",
+            "Serve hot with raita."
+        ],
+        "nurtrition": {
+            "Calories":"450 kcal",
+            "Protein":" 35g",
+            "Fat":"15g",
+            "Fiber":"3g",
+            "Carbohydrates":"50g"
+        }
+    }
+
+]

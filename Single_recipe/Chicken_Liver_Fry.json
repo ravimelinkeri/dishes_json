@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 49,
+        "img": "Dishes Images/chicken liver fry.jpg",
+        "Dish": "Chicken Liver Fry",
+        "Dishname": "Chicken_Liver_Fry",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "10 minutes",
+        "cockingTime": "20 minutes",
+        "totalTime": "30 minutes",
+        "Serving": "4 servings",
+        "ingredients": "500g chicken liver (cleaned and cut into pieces), 2 onions (sliced), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "Heat oil in a pan, add onions, and sauté until golden brown.",
+            "Add ginger-garlic paste and cook for a minute. ",
+            " Add chicken liver, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
+            "Add chopped tomatoes and cook until the liver is fully cooked (about 8-10 minutes).",
+            " Sprinkle garam masala and cook for another 2 minutes.",
+            "Garnish with fresh cilantro and serve hot with rice or roti."
+        ],
+        "nurtrition": {
+            "Calories":"300 kcal",
+            "Protein":" 28g",
+            "Fat":"20g",
+            "Fiber":"2g",
+            "Carbohydrates":"8g"
+        }
+    }
+
+]

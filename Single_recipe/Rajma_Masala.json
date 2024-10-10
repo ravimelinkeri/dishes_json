@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 29,
+        "img": "Dishes Images/rajma masala.jpg",
+        "Dish": "Rajma Masala",
+        "Dishname": "Rajma_Masala",
+        "typeofDish": "Veg",
+        "preparationTime": "20 minutes",
+        "cockingTime": "40 minutes",
+        "totalTime": " 1 hour",
+        "Serving": "4 servings",
+        "ingredients": "1 cup red kidney beans (soaked overnight), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "Pressure cooks-soaked kidney beans with salt until soft (4-5 whistles). Heat oil in a pan and add cumin seeds. ",
+            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+            "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Cook for 2-3 minutes. ",
+            "Add the cooked kidney beans and enough water for desired consistency. Simmer for 20 minutes. ",
+            "Sprinkle garam masala and garnish with fresh cilantro. ",
+            "Serve hot with rice or roti. "
+        ],
+        "nurtrition": {
+            "Calories":"290 kcal",
+            "Protein":" 13g",
+            "Fat":"20g",
+            "Fiber":"4g",
+            "Carbohydrates":"16g"
+        }
+    }
+
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 45,
+        "img": "Dishes Images/mutton handi.jpg",
+        "Dish": "Mutton Handi",
+        "Dishname": "Mutton_Handi",
+        "typeofDish": "Non-Veg",
+        "preparationTime": "20 minutes",
+        "cockingTime": "1 hour 30 minutes ",
+        "totalTime": "1 hour 50 minutes ",
+        "Serving": "4 servings",
+        "ingredients": "500g mutton (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ½ cup yogurt, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+        "instructions": [
+            "Heat oil in a clay pot or deep pan, add onions, and sauté until golden brown. ",
+            "Add ginger-garlic paste, green chilies, and mutton pieces. Cook until the mutton is browned.",
+            "Add turmeric powder, red chili powder, coriander powder, and salt. Mix well. ",
+            "Add tomato puree and cook until the oil separates.  Add yogurt, stir well, and cook for 10-15 minutes.",
+            "Add enough water to cover the mutton, cover the pot, and cook on low heat for 1 hour until the mutton is tender.",
+            "Sprinkle garam masala, garnish with cilantro, and serve hot with naan or rice."
+        ],
+        "nurtrition": {
+            "Calories":"450 kcal",
+            "Protein":" 30g",
+            "Fat":"30g",
+            "Fiber":"4g",
+            "Carbohydrates":"12g"
+        }
+    }
+
+]

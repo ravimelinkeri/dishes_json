@@ -1,0 +1,30 @@
+[
+
+    {
+        "id": 39,
+        "img": "Dishes Images/sag paneer.jpg",
+        "Dish": "Saag Paneer",
+        "Dishname": "Saag_Paneer",
+        "typeofDish": "Veg",
+        "preparationTime": "15 minutes",
+        "cockingTime": "25 minutes",
+        "totalTime": "40 minutes",
+        "Serving": "4 servings",
+        "ingredients": "250g paneer (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
+        "instructions": [
+            "Blanch spinach in boiling water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree.",
+            "Heat oil in a pan, add cumin seeds and let them splutter.",
+            "Add onions and sauté until golden brown. Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
+            "Add spinach puree and cook for 5-7 minutes. Add paneer cubes and cook for another 5 minutes..",
+            "Garnish with fresh cream (optional) and serve hot with roti or naan."
+        ],
+        "nurtrition": {
+            "Calories":"240 kcal",
+            "Protein":" 12g",
+            "Fat":"30g",
+            "Fiber":"6g",
+            "Carbohydrates":"10g"
+        }
+    }
+
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 33,
+        "img": "Dishes Images/mixed vegetables sabzi.jpg",
+        "Dish": "Mixed Vegetable Sabzi",
+        "Dishname": "Mixed_Vegetable_Sabzi",
+        "typeofDish": "Veg",
+        "preparationTime": "15 minutes",
+        "cockingTime": "20 minutes",
+        "totalTime": "35 minutes",
+        "Serving": "4 servings",
+        "ingredients": "2 cups mixed vegetables (carrots, beans, peas, potatoes, cauliflower), 1 onion (chopped), 2 tomatoes (chopped), 1 green chili (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+        "instructions": [
+            "Heat oil in a pan, add cumin seeds and let them splutter. ",
+            "Add onions and sauté until golden brown. ",
+            "Add ginger-garlic paste, green chili, and tomatoes. Cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Stir well. ",
+            "Add the mixed vegetables and sauté for a few minutes. Add a little water, cover, and cook until the vegetables are tender (about 10 minutes). ",
+            "Sprinkle garam masala, mix well, and cook for another 2 minutes. ",
+            "Garnish with fresh cilantro and serve hot with roti or rice. "
+        ],
+        "nurtrition": {
+            "Calories":"150 kcal",
+            "Protein":" 4g",
+            "Fat":"7g",
+            "Fiber":"6g",
+            "Carbohydrates":"20g"
+        }
+    }
+
+]
