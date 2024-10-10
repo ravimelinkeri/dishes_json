@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 44,
+            "img": "Dishes Images/chicken handi.jpg",
+            "Dish": "Chicken Handi",
+            "Dishname": "Chicken_Handi",
+            "typeofDish": "Non-Veg",
+            "preparationTime": " 15 Minutes",
+            "cockingTime": " 40 Minutes",
+            "totalTime": " 55 Minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 1 green chili (slit), ½ tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ¼ cup yogurt, ¼ cup fresh cream, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a clay pot or deep pan. Add onions and sauté until golden brown.",
+                " Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add chicken, turmeric powder, red chili powder, coriander powder, and salt. Cook until the chicken is browned.",
+                "Add tomato puree and cook until the oil separates. Lower the heat and stir in yogurt. Cook for 5-7 minutes.",
+                "Add 1 cup of water, cover, and simmer until the chicken is tender. Stir in fresh cream and garam masala. Cook for another 5 minutes.",
+                "Garnish with cilantro and serve hot with naan or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 35g",
+                "Fat":"22g",
+                "Fiber":"4g",
+                "Carbohydrates":"15g"
+            }
+        }
+    
+    }
+
+    
+]

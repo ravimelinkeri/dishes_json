@@ -1,0 +1,36 @@
+[
+
+
+    {
+
+        "name" : {
+            "id": 35,
+            "img": "Dishes Images/baingan ka bharta.jpg",
+            "Dish": "Baingan Ka Bharta",
+            "Dishname": "Baingan_Ka_Bharta",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 large eggplants (brinjal/baingan), 1 large onion (finely chopped), 2 tomatoes (pureed), 2 green chilies (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Roast the eggplants over an open flame or in the oven until soft and charred. Peel the skin and mash the flesh. ",
+                "Heat oil in a pan and add cumin seeds. ",
+                "Add chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, and sauté for a minute. ",
+                "Add tomato puree, turmeric powder, coriander powder, and salt. Cook until the oil separates. ",
+                "Add the mashed eggplant and mix well. Cook for 5-7 minutes. Sprinkle garam masala and garnish with fresh cilantro. ",
+                "Serve hot with roti or paratha. "
+            ],
+            "nurtrition": {
+                "Calories":"140 kcal",
+                "Protein":" 3g",
+                "Fat":"8g",
+                "Fiber":"7g",
+                "Carbohydrates":"16g"
+            }
+        }
+    }
+    
+
+]

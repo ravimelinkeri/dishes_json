@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" :  {
+            "id": 32,
+            "img": "Dishes Images/palak tofu.jpg",
+            "Dish": "Palak Tofu",
+            "Dishname": "Palak_Tofu",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "300g firm tofu (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, ½ tsp turmeric powder, ½ tsp red chili powder, 2 tbsp oil, Salt to taste. ",
+            "instructions": [
+                "Blanch spinach in hot water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree. ",
+                "Heat oil in a pan, add cumin seeds, and let them splutter. ",
+                "Add onions and sauté until golden brown. ",
+                "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
+                "Add turmeric, red chili powder, garam masala, and salt. Add spinach puree and cook for 5 minutes. ",
+                "Add tofu cubes and simmer for another 5-7 minutes. Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"240 kcal",
+                "Protein":" 14g",
+                "Fat":"7g",
+                "Fiber":"6g",
+                "Carbohydrates":"20g"
+            }
+        }
+    
+    }
+
+   
+]

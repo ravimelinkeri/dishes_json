@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 48,
+            "img": "Dishes Images/mutton liver fry.jpg",
+            "Dish": "Mutton Liver Fry",
+            "Dishname": "Mutton_Liver_Fry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton liver (cleaned and cut into pieces), 2 onions (finely chopped), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                " Heat oil in a pan, add onions, and sauté until golden brown.",
+                " Add ginger-garlic paste and green chili, and cook for a minute.",
+                "Add mutton liver pieces, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
+                "Add chopped tomatoes and cook until the liver is fully cooked (about 10-12 minutes).",
+                " Sprinkle garam masala and cook for another 2-3 minutes.",
+                "Garnish with fresh cilantro and serve hot with rice or roti."
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 30g",
+                "Fat":"20g",
+                "Fiber":"8g",
+                "Carbohydrates":"8g"
+            }
+        }
+    }
+
+    
+
+]

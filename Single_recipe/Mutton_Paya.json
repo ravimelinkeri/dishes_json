@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 42,
+            "img": "Dishes Images/mutton paya.jpg",
+            "Dish": "Mutton Paya",
+            "Dishname": "Mutton_Paya",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 Minutes",
+            "cockingTime": "2-3 Hours",
+            "totalTime": " 2-3 Hours",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton trotters (paya), 1 onion (chopped), 1 tomato (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp red chili powder, 1 tsp garam masala, 4 tbsp oil, Fresh cilantro for garnish, Salt to taste.",
+            "instructions": [
+                "Heat oil in a large pot, add cumin seeds, and let them splutter. Add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and cook for a minute.",
+                "Add chopped tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil separates.",
+                "Add the mutton trotters and enough water to cover them. Cover the pot and simmer on low heat for 3-4 hours until the trotters are tender. ",
+                "Sprinkle garam masala, stir well, and simmer for another 15 minutes.",
+                "Garnish with fresh cilantro and serve hot with naan or rice."
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 25g",
+                "Fat":"22g",
+                "Fiber":"2g",
+                "Carbohydrates":"8g"
+            }
+        }
+    }
+
+    
+
+]

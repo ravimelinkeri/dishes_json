@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 24,
+            "img": "Dishes Images/vegetable korma.jpg",
+            "Dish": "Vegetable Korma",
+            "Dishname": "Vegetable_Korma",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "50 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 cups mixed vegetables (carrots, peas, potatoes, cauliflower), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, ½ cup coconut milk or cashew paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp garam masala, 1 tsp ground fennel seeds, 1 tsp red chili powder, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter.",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute.",
+                "Add tomato puree and cook until the oil separates. ",
+                "Add turmeric, coriander powder, ground fennel, red chili powder, and salt.  Add the mixed vegetables and sauté for a few minutes.",
+                "Add water and cover. Let it cook until the vegetables are tender (about 10-15 minutes). ",
+                "Stir in coconut milk or cashew paste, and let it simmer for 5 minutes"
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 6g",
+                "Fat":"18g",
+                "Fiber":"6g",
+                "Carbohydrates":"30g"
+            }
+        }
+    }
+
+    
+
+]

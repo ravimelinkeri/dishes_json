@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 23,
+            "img": "Dishes Images/saag aloo.jpg",
+            "Dish": "Saag Aloo",
+            "Dishname": "Saag_Aloo",
+            "typeofDish": "Veg",
+            "preparationTime": "10 Minutes",
+            "cockingTime": "30 minutes ",
+            "totalTime": " 40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "300g spinach (blanched and pureed), 3 medium potatoes (peeled and cubed), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, ½ tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown.",
+                "Add ginger-garlic paste and green chili, sauté for a minute. Add tomato puree and cook until the oil separates.",
+                "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add cubed potatoes and sauté for a few minutes.",
+                "Pour in some water, cover, and cook the potatoes until tender (about 15 minutes). ",
+                " Add the spinach puree and cook for another 5-7 minutes. Sprinkle garam masala, mix well, and garnish with fresh cilantro.",
+                "Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"200 kcal",
+                "Protein":" 6g",
+                "Fat":"10g",
+                "Fiber":"6g",
+                "Carbohydrates":"22g"
+            }
+        }
+    }
+
+    
+
+]

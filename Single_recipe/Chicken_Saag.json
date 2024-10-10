@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 18,
+            "img": "Dishes Images/chicken saag.jpg",
+            "Dish": "Chicken Saag",
+            "Dishname": "Chicken_Saag",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 Minutes",
+            "cockingTime": "45 Minutes",
+            "totalTime": "1 Hour",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 300g spinach (fresh or frozen, thawed and drained), 2 tablespoons ghee or oil, 2 large onions, finely chopped, 2 tomatoes, chopped, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1 teaspoon cumin seeds, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/4 cup cream (optional), Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                "In a bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, and salt. Add the chicken pieces and coat them well. Cover and refrigerate for at least 30 minutes. ",
+                "If using fresh spinach, blanch it in boiling water for 2-3 minutes, then blend it into a smooth puree. If using frozen spinach, simply blend it. Heat ghee or oil in a large pan over medium heat. Add cumin seeds and let them sizzle. ",
+                "Add chopped onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. Add chopped tomatoes and cook until they soften and the oil starts separating from the mixture. ",
+                "Add turmeric powder, red chili powder, ground coriander, and salt to the onion-tomato mixture. Add the marinated chicken and cook until it is browned. ",
+                "Stir in the spinach puree and cook on medium heat for 15-20 minutes, or until the chicken is cooked through and the flavors are well combined. If using, stir in the cream and cook for an additional 5 minutes. ",
+                "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 30g",
+                "Fat":"15g",
+                "Fiber":"4g",
+                "Carbohydrates":"12g"
+            }
+        }
+    }
+
+    
+
+]

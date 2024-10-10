@@ -1,0 +1,36 @@
+[
+
+
+    {
+        "name" : {
+            "id": 36,
+            "img": "Dishes Images/aloo gobi.jpg",
+            "Dish": "Aloo Gobi",
+            "Dishname": "Aloo_Gobi",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 medium potatoes (cubed), 1 medium cauliflower (cut into florets), 1 onion (finely chopped), 2 tomatoes (chopped), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds, and let them splutter. ",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add chopped tomatoes and cook until the oil separates. ",
+                "Add turmeric, coriander powder, and salt. Stir well. ",
+                "Add potatoes and cauliflower, mix well, and cover the pan. Cook on low heat until the vegetables are tender. ",
+                "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"200 kcal",
+                "Protein":" 5g",
+                "Fat":"10g",
+                "Fiber":"6g",
+                "Carbohydrates":"24g"
+            }
+        }
+    }
+
+    
+
+]

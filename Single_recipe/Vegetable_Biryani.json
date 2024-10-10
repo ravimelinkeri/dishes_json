@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 28,
+            "img": "Dishes Images/vegetable biryani.jpg",
+            "Dish": "Vegetable Biryani",
+            "Dishname": "Vegetable_Biryani",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "40 minutes",
+            "totalTime": " 1 hour",
+            "Serving": "4 servings",
+            "ingredients": "1.5 cups basmati rice (soaked for 30 minutes), 1 cup mixed vegetables (carrots, peas, beans, cauliflower), 1 large onion (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 bay leaf, 1 cinnamon stick, 3 cloves, 1 tsp garam masala, 1 tsp biryani masala, ¼ cup yogurt, 2 tbsp oil or ghee, Fresh cilantro and mint leaves for garnish. ",
+            "instructions": [
+                "Cook the soaked basmati rice with a pinch of salt and set aside. ",
+                "Heat oil or ghee in a pan, add cumin seeds, bay leaf, cinnamon, and cloves. Sauté for a minute. Add sliced onions and cook until golden brown. ",
+                "Add ginger-garlic paste and green chili, sauté for a minute. Add chopped tomatoes and cook until oil separates. ",
+                "Add the mixed vegetables, biryani masala, garam masala, and salt. Cook for 5 minutes. Stir in yogurt and cook until vegetables are tender. ",
+                "Layer the vegetable mixture with cooked rice in a pan. Garnish with cilantro and mint leaves. ",
+                "Cover and let the biryani steam on low heat for 10 minutes. Serve hot with raita or a side of your choice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 8g",
+                "Fat":"12g",
+                "Fiber":"6g",
+                "Carbohydrates":"60g"
+            }
+        }
+    
+    }
+
+    
+]

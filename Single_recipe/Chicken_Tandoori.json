@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" : {
+            "id": 8,
+            "img": "Dishes Images/Tandoori chicken.jpg",
+            "Dish": "Chicken Tandoori ",
+            "Dishname": "Chicken_Tandoori",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes ",
+            "cockingTime": "30 minutes +  6 hours (or overnight)",
+            "totalTime": " 6 hours 45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 whole chicken (cut into 4 pieces or use 4 chicken legs), 1/2 cup thick yogurt 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon garam masala,1/2 teaspoon black pepper powder, 1 tablespoon vegetable oil, Fresh lemon wedges Chopped coriander leaves Sliced onions Salt to taste. ",
+            "instructions": [
+                "Make deep slits on the chicken pieces to help the marinade penetrate. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric, ground cumin, ground coriander, garam masala, black pepper, vegetable oil, salt, and red food color (if using). ",
+                " Rub the marinade all over the chicken pieces, making sure it gets into the slits. Cover and refrigerate for at least 6 hours, or preferably overnight for the best flavour. ",
+                "Preheat your oven to 200°C (400°F). If you have a charcoal grill, prepare it by lighting the coals until they're hot. ",
+                " If using an oven, place the marinated chicken on a baking tray lined with foil. Bake for 25-30 minutes, turning the chicken halfway through, until it is cooked through and slightly charred on the edges. ",
+                "If using a grill, place the chicken over the hot coals and cook for 20-25 minutes, turning occasionally until the chicken is cooked and has a nice char. ",
+                "Garnish the chicken tandoori with fresh lemon wedges, sliced onions, and chopped coriander leaves. Serve hot with naan, roti, or rice, and a side of mint chutney."
+            ],
+            "nurtrition": {
+                "Calories":"360 kcal",
+                "Protein":" 35g",
+                "Fat":"18g",
+                "Fiber":"2g",
+                "Carbohydrates":"5g"
+            }
+        }
+    }
+
+    
+
+]

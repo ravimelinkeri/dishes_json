@@ -1,0 +1,35 @@
+[
+
+    {
+        "name" :  {
+            "id": 41,
+            "img": "Dishes Images/Nihar.jpg",
+            "Dish": "Nihari",
+            "Dishname": "Nihari",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "30 Minutes",
+            "cockingTime": "4 Hours",
+            "totalTime": " 4 Hour 30 Minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton or beef (with bones), 1 large onion (sliced), 1 tbsp ginger-garlic paste, 1 tsp fennel seeds, 2-3 green cardamoms, 2 bay leaves, 1-inch cinnamon stick, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp garam masala, ½ tsp turmeric powder, 1 tbsp wheat flour (for thickening), 4 tbsp ghee or oil, Salt to taste.",
+            "instructions": [
+                "Heat ghee in a large pot and add cumin seeds, cardamoms, bay leaves, and cinnamon stick. Sauté for a minute.",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and cook for a couple of minutes.",
+                "Add mutton or beef pieces, turmeric powder, coriander powder, and salt. Cook until the meat is browned.",
+                "Add enough water to cover the meat, cover the pot, and simmer on low heat for 2-3 hours until the meat is tender.",
+                " In a small bowl, mix wheat flour with water to make a slurry. Add this to the stew to thicken it.",
+                "Sprinkle garam masala, cook for another 10 minutes, and adjust the consistency by adding water if needed. Garnish with fresh cilantro and lemon slices. Serve with naan or rice. "
+            ],
+            "nurtrition": { 
+                "Calories":"500 kcal",
+                "Protein":" 35g",
+                "Fat":"25g",
+                "Fiber":"6g",
+                "Carbohydrates":"30g"
+            }
+        }
+    }
+
+   
+
+]
