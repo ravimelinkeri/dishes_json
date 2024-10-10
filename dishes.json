@@ -92,1364 +92,1487 @@
         }
     },
 
-
     {
-        "id": 4,
-        "img": "Dishes Images/Chicken biryani.jpg",
-        "Dish": "Chicken Biryani",
-        "Dishname": "Chicken_Biryani",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "1 hour ",
-        "totalTime": "1 hour 20 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (bone-in or boneless, cut into pieces), 1/2 cup yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder,1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, Salt to taste, 2 cups basmati rice (washed and soaked for 30 minutes), 4 cups water, 2-3 cloves, 2-3 green cardamom pods, 1 bay leaf, 1 cinnamon stick, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2 green chilies (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1/2 cup chopped mint leaves, 1/2 cup chopped coriander leaves, 1/2 teaspoon saffron strands (soaked in 2 tablespoons warm milk), 3 tablespoons ghee or oil,1/4 cup fried onions (for garnish). ",
-        "instructions": [
-            "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, lemon juice, and salt. Add the chicken pieces and coat them well.  Marinate for at least 1 hour (preferably overnight). ",
-            "In a large pot, bring water to a boil. Add cloves, cardamom, bay leaf, cinnamon stick, and salt. Add the soaked rice and cook until 70% done (the rice should still have a bite). Drain and set aside. ",
-            " Heat ghee or oil in a large pan and add cumin seeds. Add the sliced onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears. Add chopped tomatoes and cook until the oil starts separating.  Add the marinated chicken and cook for 15-20 minutes until the chicken is fully cooked and tender. ",
-            "In a large heavy-bottomed pot, start layering the chicken and rice. Spread half of the chicken mixture at the bottom, followed by a layer of rice. Sprinkle mint leaves, coriander leaves, saffron milk, and fried onions. Repeat with the remaining chicken and rice. Finish with a final layer of rice, saffron milk, mint, coriander, and fried onions. ",
-            "Cover the pot tightly with a lid or seal with dough to prevent steam from escaping. Cook on low heat for 20-25 minutes. You can place the pot on a tawa (griddle) to prevent direct heat from burning the bottom layer",
-            "Gently fluff the rice and chicken to mix the layers. Serve hot with raita or a salad"
-        ],
-        "nurtrition": {
-            "Calories":" 600 kcal ",
-            "Protein":" 28g",
-            "Fat":"22g",
-            "Fiber":"4g",
-            "Carbohydrates":"70g"
-        }
-    },
-
-    {
-        "id": 5,
-        "img": "Dishes Images/Mutton biryani.jpg",
-        "Dish": "Mutton Biryani",
-        "Dishname": "Mutton_Biryani",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "30 minutes ",
-        "cockingTime": "1 hour 30 minutes ",
-        "totalTime": "2 hours ",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, Salt to taste, 2 cups basmati rice (washed and soaked for 30 minutes), 4 cups water, 2-3 cloves, 2-3 green cardamom pods,1 bay leaf, 1 cinnamon stick, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2 green chilies (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1/2 cup chopped mint leaves, 1/2 cup chopped coriander leaves, 1/2 teaspoon saffron strands (soaked in 2 tablespoons warm milk), 3 tablespoons ghee or oil,1/4 cup fried onions (for garnish) ",
-        "instructions": [
-            "In a large bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric, ground coriander, garam masala, lemon juice, and salt.  Add the mutton pieces, coat well, and marinate for at least 1-2 hours (preferably overnight). ",
-            "Heat ghee or oil in a pressure cooker or heavy-bottomed pan. Add cumin seeds and let them crackle. Add sliced onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears. Add chopped tomatoes and cook until the oil starts separating from the mixture. Add the marinated mutton and cook on medium heat for 15-20 minutes, stirring occasionally. Add water and pressure cook for 20-25 minutes until the mutton is tender. If using a regular pan, cook for 45-60 minutes until the meat is soft. ",
-            " In a large pot, bring water to a boil. Add cloves, cardamom, bay leaf, cinnamon stick, and salt. Add the soaked rice and cook until 70% done (the rice should still have a bite). Drain and set aside.",
-            "In a large heavy-bottomed pot, start layering the cooked mutton and rice. Spread half of the mutton at the bottom, followed by a layer of rice.Sprinkle mint leaves, coriander leaves, saffron milk, and fried onions. Repeat with the remaining mutton and rice. Finish with a final layer of rice, saffron milk, mint, coriander, and fried onions.",
-            "Cover the pot tightly with a lid or seal with dough to trap steam. Place the pot on low heat for 20-30 minutes to allow the Flavors to blend. You can also place the pot on a tawa (griddle) to prevent direct heat from burning the bottom layer. ",
-            " Fluff the rice and mutton gently before serving. Serve hot with raita or a side salad."
-        ],
-        "nurtrition": {
-            "Calories":"650 kcal",
-            "Protein":" 35g",
-            "Fat":"28g",
-            "Fiber":"5g",
-            "Carbohydrates":"70g"
-        }
-    },
-
-    {
-        "id": 6,
-        "img": "Dishes Images/Fish Curry.jpg",
-        "Dish": "Fish Curry",
-        "Dishname": "Fish_Curry",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "30 minutes ",
-        "totalTime": "45 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g fish fillets (such as kingfish, tilapia, or cod), 1 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 tablespoon lemon juice, 2 tablespoons oil (coconut oil or vegetable oil),1 large onion, finely chopped, 2 tomatoes, finely chopped or pureed, 1 tablespoon ginger-garlic paste,1 teaspoon cumin seed, 1 teaspoon mustard seeds, 2-3 green chilies (slit), 1 teaspoon turmeric powder, 1 teaspoon coriander powder, 1 teaspoon red chili powder, 1 teaspoon garam masala, 1/2 cup coconut milk (optional), 2 tablespoons tamarind pastes or juice, Fresh coriander leaves for garnish, Salt to taste.",
-        "instructions": [
-            " In a bowl, mix the turmeric powder, red chili powder, lemon juice, and salt. Coat the fish fillets with this mixture and let them marinate for 15 minutes.",
-            " Heat 1 tablespoon oil in a pan and lightly fry the marinated fish for 2-3 minutes on each side until golden brown. Remove from the pan and set aside. ",
-            "In the same pan, heat the remaining oil. Add mustard seeds and cumin seeds, and let them splutter. Add chopped onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears.Add chopped tomatoes (or tomato puree) and cook until the oil separates from the mixture. Add turmeric powder, coriander powder, red chili powder, and garam masala. Cook for another 2 minutes.",
-            " Add the tamarind paste and a cup of water. Bring the curry to a boil and then lower the heat to let it simmer for 10 minutes. If using coconut milk, add it at this stage and mix well.",
-            " Gently slide the fried fish fillets into the curry. Simmer for 5-7 minutes on low heat, allowing the fish to absorb the Flavors of the curry. ",
-            "Garnish with fresh coriander leaves. Serve hot with steamed rice or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"320 kcal",
-            "Protein":" 30g",
-            "Fat":"15g",
-            "Fiber":"3g",
-            "Carbohydrates":"10g"
+        "name" : {
+            "id": 4,
+            "img": "Dishes Images/Chicken biryani.jpg",
+            "Dish": "Chicken Biryani",
+            "Dishname": "Chicken_Biryani",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "1 hour ",
+            "totalTime": "1 hour 20 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (bone-in or boneless, cut into pieces), 1/2 cup yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder,1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, Salt to taste, 2 cups basmati rice (washed and soaked for 30 minutes), 4 cups water, 2-3 cloves, 2-3 green cardamom pods, 1 bay leaf, 1 cinnamon stick, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2 green chilies (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1/2 cup chopped mint leaves, 1/2 cup chopped coriander leaves, 1/2 teaspoon saffron strands (soaked in 2 tablespoons warm milk), 3 tablespoons ghee or oil,1/4 cup fried onions (for garnish). ",
+            "instructions": [
+                "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, lemon juice, and salt. Add the chicken pieces and coat them well.  Marinate for at least 1 hour (preferably overnight). ",
+                "In a large pot, bring water to a boil. Add cloves, cardamom, bay leaf, cinnamon stick, and salt. Add the soaked rice and cook until 70% done (the rice should still have a bite). Drain and set aside. ",
+                " Heat ghee or oil in a large pan and add cumin seeds. Add the sliced onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears. Add chopped tomatoes and cook until the oil starts separating.  Add the marinated chicken and cook for 15-20 minutes until the chicken is fully cooked and tender. ",
+                "In a large heavy-bottomed pot, start layering the chicken and rice. Spread half of the chicken mixture at the bottom, followed by a layer of rice. Sprinkle mint leaves, coriander leaves, saffron milk, and fried onions. Repeat with the remaining chicken and rice. Finish with a final layer of rice, saffron milk, mint, coriander, and fried onions. ",
+                "Cover the pot tightly with a lid or seal with dough to prevent steam from escaping. Cook on low heat for 20-25 minutes. You can place the pot on a tawa (griddle) to prevent direct heat from burning the bottom layer",
+                "Gently fluff the rice and chicken to mix the layers. Serve hot with raita or a salad"
+            ],
+            "nurtrition": {
+                "Calories":" 600 kcal ",
+                "Protein":" 28g",
+                "Fat":"22g",
+                "Fiber":"4g",
+                "Carbohydrates":"70g"
+            }
         }
     },
 
 
     {
-        "id": 7,
-        "img": "Dishes Images/Prawn Malai Curry.jpg",
-        "Dish": " Prawn Malai Curry",
-        "Dishname": "Prawn_Malai_Curry",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 minutes ",
-        "cockingTime": "30 minutes ",
-        "totalTime": " 45 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g prawns (peeled and deveined), 1/2 teaspoon turmeric powder, 1/2 teaspoon red chili powder, 2 tablespoons mustard oil (or vegetable oil),1 large onion, finely chopped, 1 tablespoon ginger-garlic paste, 2 green chilies, slit,1 teaspoon cumin seed, 1/2 teaspoon turmeric powder, 1/2 teaspoon red chili powder, 1 cup coconut milk, 1 tablespoon fresh cream (optional), 2 tablespoons grated coconut (optional), 1 teaspoon garam masala, 2 tablespoons ghee, Fresh coriander leaves for garnish, Salt to taste. 1 tablespoon lemon juice, Salt to taste, ",
-        "instructions": [
-            " In a bowl, mix the prawns with turmeric, red chili powder, lemon juice, and salt. Let them marinate for 10-15 minutes.",
-            "Heat 1 tablespoon mustard oil in a pan. Lightly fry the marinated prawns for 2-3 minutes until they turn pink. Remove from the pan and set aside. ",
-            " In the same pan, heat the remaining mustard oil. Add cumin seeds and let them crackle. Add chopped onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears.  Add slit green chilies, turmeric powder, and red chili powder, and cook for 2 minutes. ",
-            "Add coconut milk and grated coconut (if using) to the onion mixture. Simmer the curry on low heat for 10 minutes, allowing the Flavors to blend. Add salt to taste. ",
-            "Gently add the fried prawns to the curry. Cook for another 5-7 minutes, allowing the prawns to soak in the curry. Add fresh cream and garam masala, stirring well. ",
-            "Add ghee for extra richness before serving. Garnish with fresh coriander leaves. Serve hot with steamed rice or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 28g",
-            "Fat":"20g",
-            "Fiber":"2g",
-            "Carbohydrates":"8g"
+        "name" : {
+            "id": 5,
+            "img": "Dishes Images/Mutton biryani.jpg",
+            "Dish": "Mutton Biryani",
+            "Dishname": "Mutton_Biryani",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "30 minutes ",
+            "cockingTime": "1 hour 30 minutes ",
+            "totalTime": "2 hours ",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, Salt to taste, 2 cups basmati rice (washed and soaked for 30 minutes), 4 cups water, 2-3 cloves, 2-3 green cardamom pods,1 bay leaf, 1 cinnamon stick, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2 green chilies (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1/2 cup chopped mint leaves, 1/2 cup chopped coriander leaves, 1/2 teaspoon saffron strands (soaked in 2 tablespoons warm milk), 3 tablespoons ghee or oil,1/4 cup fried onions (for garnish) ",
+            "instructions": [
+                "In a large bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric, ground coriander, garam masala, lemon juice, and salt.  Add the mutton pieces, coat well, and marinate for at least 1-2 hours (preferably overnight). ",
+                "Heat ghee or oil in a pressure cooker or heavy-bottomed pan. Add cumin seeds and let them crackle. Add sliced onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cooking until the raw smell disappears. Add chopped tomatoes and cook until the oil starts separating from the mixture. Add the marinated mutton and cook on medium heat for 15-20 minutes, stirring occasionally. Add water and pressure cook for 20-25 minutes until the mutton is tender. If using a regular pan, cook for 45-60 minutes until the meat is soft. ",
+                " In a large pot, bring water to a boil. Add cloves, cardamom, bay leaf, cinnamon stick, and salt. Add the soaked rice and cook until 70% done (the rice should still have a bite). Drain and set aside.",
+                "In a large heavy-bottomed pot, start layering the cooked mutton and rice. Spread half of the mutton at the bottom, followed by a layer of rice.Sprinkle mint leaves, coriander leaves, saffron milk, and fried onions. Repeat with the remaining mutton and rice. Finish with a final layer of rice, saffron milk, mint, coriander, and fried onions.",
+                "Cover the pot tightly with a lid or seal with dough to trap steam. Place the pot on low heat for 20-30 minutes to allow the Flavors to blend. You can also place the pot on a tawa (griddle) to prevent direct heat from burning the bottom layer. ",
+                " Fluff the rice and mutton gently before serving. Serve hot with raita or a side salad."
+            ],
+            "nurtrition": {
+                "Calories":"650 kcal",
+                "Protein":" 35g",
+                "Fat":"28g",
+                "Fiber":"5g",
+                "Carbohydrates":"70g"
+            }
         }
     },
 
 
     {
-        "id": 8,
-        "img": "Dishes Images/Tandoori chicken.jpg",
-        "Dish": "Chicken Tandoori ",
-        "Dishname": "Chicken_Tandoori",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 minutes ",
-        "cockingTime": "30 minutes +  6 hours (or overnight)",
-        "totalTime": " 6 hours 45 minutes",
-        "Serving": "4 servings",
-        "ingredients": "1 whole chicken (cut into 4 pieces or use 4 chicken legs), 1/2 cup thick yogurt 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon garam masala,1/2 teaspoon black pepper powder, 1 tablespoon vegetable oil, Fresh lemon wedges Chopped coriander leaves Sliced onions Salt to taste. ",
-        "instructions": [
-            "Make deep slits on the chicken pieces to help the marinade penetrate. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric, ground cumin, ground coriander, garam masala, black pepper, vegetable oil, salt, and red food color (if using). ",
-            " Rub the marinade all over the chicken pieces, making sure it gets into the slits. Cover and refrigerate for at least 6 hours, or preferably overnight for the best flavour. ",
-            "Preheat your oven to 200°C (400°F). If you have a charcoal grill, prepare it by lighting the coals until they're hot. ",
-            " If using an oven, place the marinated chicken on a baking tray lined with foil. Bake for 25-30 minutes, turning the chicken halfway through, until it is cooked through and slightly charred on the edges. ",
-            "If using a grill, place the chicken over the hot coals and cook for 20-25 minutes, turning occasionally until the chicken is cooked and has a nice char. ",
-            "Garnish the chicken tandoori with fresh lemon wedges, sliced onions, and chopped coriander leaves. Serve hot with naan, roti, or rice, and a side of mint chutney."
-        ],
-        "nurtrition": {
-            "Calories":"360 kcal",
-            "Protein":" 35g",
-            "Fat":"18g",
-            "Fiber":"2g",
-            "Carbohydrates":"5g"
+        "name" : {
+            "id": 6,
+            "img": "Dishes Images/Fish Curry.jpg",
+            "Dish": "Fish Curry",
+            "Dishname": "Fish_Curry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "30 minutes ",
+            "totalTime": "45 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g fish fillets (such as kingfish, tilapia, or cod), 1 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 tablespoon lemon juice, 2 tablespoons oil (coconut oil or vegetable oil),1 large onion, finely chopped, 2 tomatoes, finely chopped or pureed, 1 tablespoon ginger-garlic paste,1 teaspoon cumin seed, 1 teaspoon mustard seeds, 2-3 green chilies (slit), 1 teaspoon turmeric powder, 1 teaspoon coriander powder, 1 teaspoon red chili powder, 1 teaspoon garam masala, 1/2 cup coconut milk (optional), 2 tablespoons tamarind pastes or juice, Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                " In a bowl, mix the turmeric powder, red chili powder, lemon juice, and salt. Coat the fish fillets with this mixture and let them marinate for 15 minutes.",
+                " Heat 1 tablespoon oil in a pan and lightly fry the marinated fish for 2-3 minutes on each side until golden brown. Remove from the pan and set aside. ",
+                "In the same pan, heat the remaining oil. Add mustard seeds and cumin seeds, and let them splutter. Add chopped onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears.Add chopped tomatoes (or tomato puree) and cook until the oil separates from the mixture. Add turmeric powder, coriander powder, red chili powder, and garam masala. Cook for another 2 minutes.",
+                " Add the tamarind paste and a cup of water. Bring the curry to a boil and then lower the heat to let it simmer for 10 minutes. If using coconut milk, add it at this stage and mix well.",
+                " Gently slide the fried fish fillets into the curry. Simmer for 5-7 minutes on low heat, allowing the fish to absorb the Flavors of the curry. ",
+                "Garnish with fresh coriander leaves. Serve hot with steamed rice or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"320 kcal",
+                "Protein":" 30g",
+                "Fat":"15g",
+                "Fiber":"3g",
+                "Carbohydrates":"10g"
+            }
+        }    
+    },
+
+
+    {
+        "name" : {
+            "id": 7,
+            "img": "Dishes Images/Prawn Malai Curry.jpg",
+            "Dish": " Prawn Malai Curry",
+            "Dishname": "Prawn_Malai_Curry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes ",
+            "cockingTime": "30 minutes ",
+            "totalTime": " 45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g prawns (peeled and deveined), 1/2 teaspoon turmeric powder, 1/2 teaspoon red chili powder, 2 tablespoons mustard oil (or vegetable oil),1 large onion, finely chopped, 1 tablespoon ginger-garlic paste, 2 green chilies, slit,1 teaspoon cumin seed, 1/2 teaspoon turmeric powder, 1/2 teaspoon red chili powder, 1 cup coconut milk, 1 tablespoon fresh cream (optional), 2 tablespoons grated coconut (optional), 1 teaspoon garam masala, 2 tablespoons ghee, Fresh coriander leaves for garnish, Salt to taste. 1 tablespoon lemon juice, Salt to taste, ",
+            "instructions": [
+                " In a bowl, mix the prawns with turmeric, red chili powder, lemon juice, and salt. Let them marinate for 10-15 minutes.",
+                "Heat 1 tablespoon mustard oil in a pan. Lightly fry the marinated prawns for 2-3 minutes until they turn pink. Remove from the pan and set aside. ",
+                " In the same pan, heat the remaining mustard oil. Add cumin seeds and let them crackle. Add chopped onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears.  Add slit green chilies, turmeric powder, and red chili powder, and cook for 2 minutes. ",
+                "Add coconut milk and grated coconut (if using) to the onion mixture. Simmer the curry on low heat for 10 minutes, allowing the Flavors to blend. Add salt to taste. ",
+                "Gently add the fried prawns to the curry. Cook for another 5-7 minutes, allowing the prawns to soak in the curry. Add fresh cream and garam masala, stirring well. ",
+                "Add ghee for extra richness before serving. Garnish with fresh coriander leaves. Serve hot with steamed rice or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 28g",
+                "Fat":"20g",
+                "Fiber":"2g",
+                "Carbohydrates":"8g"
+            }
+        }
+    
+    },
+
+
+    {
+        "name" : {
+            "id": 8,
+            "img": "Dishes Images/Tandoori chicken.jpg",
+            "Dish": "Chicken Tandoori ",
+            "Dishname": "Chicken_Tandoori",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes ",
+            "cockingTime": "30 minutes +  6 hours (or overnight)",
+            "totalTime": " 6 hours 45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 whole chicken (cut into 4 pieces or use 4 chicken legs), 1/2 cup thick yogurt 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon garam masala,1/2 teaspoon black pepper powder, 1 tablespoon vegetable oil, Fresh lemon wedges Chopped coriander leaves Sliced onions Salt to taste. ",
+            "instructions": [
+                "Make deep slits on the chicken pieces to help the marinade penetrate. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric, ground cumin, ground coriander, garam masala, black pepper, vegetable oil, salt, and red food color (if using). ",
+                " Rub the marinade all over the chicken pieces, making sure it gets into the slits. Cover and refrigerate for at least 6 hours, or preferably overnight for the best flavour. ",
+                "Preheat your oven to 200°C (400°F). If you have a charcoal grill, prepare it by lighting the coals until they're hot. ",
+                " If using an oven, place the marinated chicken on a baking tray lined with foil. Bake for 25-30 minutes, turning the chicken halfway through, until it is cooked through and slightly charred on the edges. ",
+                "If using a grill, place the chicken over the hot coals and cook for 20-25 minutes, turning occasionally until the chicken is cooked and has a nice char. ",
+                "Garnish the chicken tandoori with fresh lemon wedges, sliced onions, and chopped coriander leaves. Serve hot with naan, roti, or rice, and a side of mint chutney."
+            ],
+            "nurtrition": {
+                "Calories":"360 kcal",
+                "Protein":" 35g",
+                "Fat":"18g",
+                "Fiber":"2g",
+                "Carbohydrates":"5g"
+            }
         }
     },
 
-    {
-        "id": 9,
-        "img": "Dishes Images/Seekh kabab.jpg",
-        "Dish": " Seekh Kebab ",
-        "Dishname": "Seekh_Kebab",
-        "typeofDish": "Non-Veg",
-        "preparationTime": " 20 minutes",
-        "cockingTime": "1 hour (Marination Time ) + 20 minutes",
-        "totalTime": " 1 hour 40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g minced lamb or chicken, 1 medium onion, finely chopped, 1 tablespoon ginger-garlic paste, 2 green chilies, finely chopped, 1 tablespoon coriander powder, 1 teaspoon cumin powder, 1 teaspoon garam masala, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 tablespoon lemon juice,1/4 cup fresh coriander leaves, finely chopped,1/4 cup fresh mint leaves, finely chopped, 1 tablespoon vegetable oil or melted butter (for basting), Salt to taste. ",
-        "instructions": [
-            " In a large mixing bowl, combine minced meat (lamb or chicken), chopped onions, ginger-garlic paste, green chilies, coriander powder, cumin powder, garam masala, red chili powder, turmeric powder, lemon juice, fresh coriander, fresh mint, and salt.",
-            "Mix everything thoroughly until well combined.- Cover the mixture and refrigerate for at least 1 hour to allow the Flavors to develop. ",
-            "Once the mixture is marinated, take small portions of the meat mixture and mold it around metal or wooden skewers, shaping it into long kebabs. If using wooden skewers, soak them in water for 30 minutes to prevent burning. ",
-            " Preheat a grill or oven to 200°C (400°F). If grilling, place the kebabs on the hot grill and cook for 15-20 minutes, turning occasionally, until they are cooked through and lightly charred. ",
-            "If using an oven, place the skewers on a baking tray lined with foil and bake for 20 minutes, turning once halfway through. Baste the kebabs with oil or melted butter during cooking to keep them moist. ",
-            " Serve the seekh kebabs hot with mint chutney, lemon wedges, and sliced onions. They can also be served with naan or as a filling for wraps. "
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 25g",
-            "Fat":"18g",
-            "Fiber":"2g",
-            "Carbohydrates":"6g"
-        }
-    },
+
 
     {
-        "id": 10,
-        "img": "Dishes Images/mutton Rogan josh.jpg",
-        "Dish": "Mutton Rogan Josh",
-        "Dishname": "Mutton_Rogan_Josh",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 minutes ",
-        "cockingTime": "1 hour 30 minutes ",
-        "totalTime": "1 hour 50 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton (goat or lamb, cut into medium pieces), 2 tablespoons mustard oil (or vegetable oil), 1 large onion, finely sliced, 1 tablespoon ginger-garlic paste, 1/2 cup plain yogurt (whisked), 2-3 green cardamom pods, 2-3 cloves, 1 bay leaf, 1 cinnamon stick, 1/2 teaspoon cumin seeds,1 teaspoon red chili powder (preferably Kashmiri red chili powder for color), 1 teaspoon ground coriander, 1/2 teaspoon turmeric powder,1/2 teaspoon fennel powder, 1/2 teaspoon garam masala, 2-3 tablespoons water, Fresh coriander leaves for garnish Salt to taste. ",
-        "instructions": [
-            " Heat mustard oil in a large heavy-bottomed pan or pressure cooker over medium heat. Add the cumin seeds, cardamom pods, cloves, bay leaf, and cinnamon stick. Let them sizzle for a minute until fragrant. Add the sliced onions and sauté until golden brown. ",
-            "Add the ginger-garlic paste to the onions and cook for another 2-3 minutes until the raw smell disappears. Stir in the red chili powder, ground coriander, turmeric powder, and fennel powder. Add the mutton pieces and sear them on all sides until they turn brown, about 8-10 minutes. ",
-            "Lower the heat and add the whisked yogurt, a little at a time, stirring continuously to prevent curdling. Cook the mutton in the yogurt and spices for about 10-15 minutes, allowing the yogurt to thicken.",
-            "Add 2-3 tablespoons of water, cover the pan, and let the mutton cook on low heat for 1-1.5 hours until the meat is tender and the oil starts separating from the gravy.",
-            "If using a pressure cooker, cook for 5-6 whistles until the mutton is tender. Stir occasionally and add more water if needed to adjust the gravy's consistency. ",
-            "Stir in the garam masala and cook for another 5 minutes. Garnish with fresh coriander leaves. Serve hot with steamed rice, naan, or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"450 kcal",
-            "Protein":" 30g",
-            "Fat":"25g",
-            "Fiber":"2g",
-            "Carbohydrates":"10g"
-        }
-    },
-
-    {
-        "id": 11,
-        "img": "Dishes Images/chicken 65.jpg",
-        "Dish": " Chicken 65",
-        "Dishname": "Chicken_65",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 minutes ",
-        "cockingTime": "1 hour + 20 minutes ",
-        "totalTime": " 1 hour 35 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (boneless, cut into bite-sized pieces),1/2 cup yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon garam masala,1 tablespoon lemon juice, 1/2 cup all-purpose flour, 1/4 cup cornstarch, 1/2 teaspoon red chili powder, 1/2 teaspoon black pepper powder, Oil for deep frying, Fresh curry leaves, Lemon wedges, Sliced onions, Salt to taste. ",
-        "instructions": [
-            " In a large bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Add the chicken pieces and mix well to coat them evenly. Cover and refrigerate for at least 1 hour. ",
-            " In a separate bowl, mix all-purpose flour, cornstarch, red chili powder, black pepper powder, and salt. ",
-            " Remove the marinated chicken from the refrigerator. Dredge each piece of chicken in the flour mixture, ensuring an even coating. ",
-            "Heat oil in a deep-frying pan or wok over medium heat. Fry the coated chicken pieces in batches, making sure not to overcrowd the pan.  ",
-            "Fry until golden brown and crispy, about 4-5 minutes per batch.Remove the fried chicken with a slotted spoon and drain on paper towels. ",
-            " In a small pan, heat a little oil and fry fresh curry leaves until crisp. Garnish the fried chicken with the crispy curry leaves, lemon wedges, and sliced onions. Serve hot as a snack or appetizer. "
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 25g",
-            "Fat":"20g",
-            "Fiber":"2g",
-            "Carbohydrates":"20g"
-        }
-    },
-
-    {
-        "id": 12,
-        "img": "Dishes Images/Hyderabadi biriyani.jpg",
-        "Dish": " Hyderabadi Chicken",
-        "Dishname": "Hyderabadi_Chicken",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 minutes ",
-        "cockingTime": "45 minutes",
-        "totalTime": "1 hour 5 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (cut into pieces),1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 2 tablespoons oil (vegetable or ghee), 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1 teaspoon cumin seeds,1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 cup coconut milk (optional), Fresh coriander leaves for garnish, Salt to taste. ",
-        "instructions": [
-            "In a large bowl, combine yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, ground coriander, garam masala, and salt. Add chicken pieces and mix well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
-            "Heat oil or ghee in a large pan over medium heat. Add cumin seeds and let them sizzle. Add sliced onions and sauté until golden brown. Add ginger-garlic paste and cook for 2-3 minutes until the raw smell disappears. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
-            "Add turmeric powder, red chili powder, ground coriander, and garam masala to the onion-tomato mixture. ",
-            " Add the marinated chicken and cook on medium heat for 10-15 minutes, stirring occasionally. If using coconut milk, add it now and mix well. ",
-            "Cover and cook on low heat for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened. Stir occasionally and add water if needed to adjust the consistency. ",
-            "Garnish with fresh coriander leaves. Serve hot with rice, naan, or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 30g",
-            "Fat":"18g",
-            "Fiber":"3g",
-            "Carbohydrates":"10g"
-        }
-    },
-
-    {
-        "id": 13,
-        "img": "Dishes Images/Lucknowi mutton.jpg",
-        "Dish": "Lucknowi Mutton",
-        "Dishname": "Lucknowi_Mutton",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 minutes ",
-        "cockingTime": " 1 hour 30 minutes ",
-        "totalTime": "1 hour 50 minutes ",
-        "Serving": "4 servings",
-        "ingredients": " 500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 2 tablespoons ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon red chili powder,1/2 teaspoon turmeric powder,1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon cumin powder, 2 tablespoons ghee or oil, 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon saffron threads (optional),Fresh coriander leaves for garnish, Salt to taste.",
-        "instructions": [
-            " In a large bowl, combine yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, ground coriander, garam masala, cumin powder, and salt.  ",
-            "Add the mutton pieces and mix well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
-            "- Heat ghee or oil in a large heavy-bottomed pan over medium heat. Add the sliced onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
-            " Add turmeric powder, red chili powder, ground coriander, and garam masala to the onion-tomato mixture. Add the marinated mutton and cook on medium heat for 10-15 minutes, stirring occasionally. ",
-            "Add 1-2 cups of water to cover the mutton. If using saffron, dissolve it in a little warm water and add it to the curry. Cover and cook on low heat for 1-1.5 hours, or until the mutton is tender and the gravy has thickened. Stir occasionally and add more water if needed.",
-            "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice."
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 30g",
-            "Fat":"25g",
-            "Fiber":"3g",
-            "Carbohydrates":"12g"
-        }
-    },
-
-    {
-        "id": 14,
-        "img": "Dishes Images/chicken korma.jpg",
-        "Dish": "Chicken Korma",
-        "Dishname": "Chicken_Korma",
-        "typeofDish": "Non-Veg",
-        "preparationTime": " 20 minutes",
-        "cockingTime": "45 minutes ",
-        "totalTime": "1 hour 5 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon ground coriander,1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 2 tablespoons ghee or oil,2 large onions, finely sliced1/4 cup cashew nuts (soaked in warm water for 30 minutes), 1/4 cup coconut, grated or desiccated (optional),1 tablespoon ginger-garlic paste,1/2 teaspoon turmeric powder,1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala,1/2 teaspoon ground cardamom, 1/2 teaspoon ground cinnamon,1/2 cup cream or coconut milk, Fresh coriander leaves for garnish, Salt to taste.",
-        "instructions": [
-            "In a bowl, mix yogurt, ginger-garlic paste, lemon juice, ground coriander, turmeric powder, red chili powder, and salt. Add the chicken pieces and coat them well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
-            "Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. Remove half for garnishing later. Add ginger-garlic paste to the remaining onions and cook until the raw smell disappears. ",
-            "Blend the soaked cashew nuts and grated coconut into a smooth paste using a little water.",
-            "Add the turmeric powder, red chili powder, ground coriander, garam masala, ground cardamom, and ground cinnamon to the onion mixture. Add the marinated chicken and cook until the chicken is browned.",
-            "Stir in the nut and coconut paste, mix well, and cook for a few minutes. Add cream or coconut milk and cook on low heat for 20-25 minutes, or until the chicken is cooked through and the sauce is thickened. ",
-            "Garnish with the reserved fried onions and fresh coriander leaves. Serve hot with naan, roti, or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 30g",
-            "Fat":"25g",
-            "Fiber":"3g",
-            "Carbohydrates":"15g"
-        }
-    },
-
-    {
-        "id": 15,
-        "img": "Dishes Images/fish tikka.jpg",
-        "Dish": " Fish Tikka",
-        "Dishname": "Fish_Tikka",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": " 1 hour (Marination Time) + 15 minutes ",
-        "totalTime": " 1 hour 30 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g firm white fish (such as cod, haddock, or tilapia), cut into chunks, 1/2 cup plain yogurt,2 tablespoons lemon juice, 1 tablespoon ginger-garlic paste,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder,1 teaspoon ground coriander,1 teaspoon garam masala, 1/2 teaspoon cumin powder, 1/2 teaspoon paprika (for color), Fresh coriander leaves, Lemon wedges, Sliced onions, Salt to taste. ",
-        "instructions": [
-            " In a bowl, mix yogurt, lemon juice, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, cumin powder, paprika, and salt.  ",
-            "Add the fish pieces and coat them well with the marinade. Cover and refrigerate for at least 1 hour. ",
-            " Preheat your grill or oven to 200°C (400°F). If using a grill, ensure it is preheated and well-oiled. ",
-            " If using a grill, thread the marinated fish pieces onto skewers. Grill the fish for 10-15 minutes, turning occasionally, until it is cooked through and has a nice charred surface. ",
-            "If using an oven, place the fish pieces on a baking tray lined with foil or parchment paper. Bake for 12-15 minutes, or until the fish is cooked through and slightly charred. ",
-            "Garnish with fresh coriander leaves, lemon wedges, and sliced onions. Serve hot with naan, roti, or as an appetizer with mint chutney. "
-        ],
-        "nurtrition": {
-            "Calories":"250 kcal",
-            "Protein":" 30g",
-            "Fat":"10g",
-            "Fiber":"2g",
-            "Carbohydrates":"10g"
-        }
-    },
-
-    {
-        "id": 16,
-        "img": "Dishes Images/prawn biryani.jpg",
-        "Dish": "Prawn Biryani",
-        "Dishname": "Prawn_Biryani",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 Minutes",
-        "cockingTime": "45 Minutes",
-        "totalTime": "1 Hour",
-        "Serving": "4 servings",
-        "ingredients": "500g prawns (peeled and deveined), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 2 cups basmati rice, 2 tablespoons ghee or oil, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2-3 green chilies, slit, 1 tablespoon ginger-garlic paste, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon saffron threads (optional), 1/4 cup milk (for saffron), Fresh coriander and mint leaves for garnish, 4 cups water, Salt to taste.",
-        "instructions": [
-            "In a bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, and salt. Add the prawns and mix well. Cover and refrigerate for at least 30 minutes. ",
-            "Rinse the basmati rice in cold water until the water runs clear. Soak the rice in water for 30 minutes, then drain. Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. ",
-            "Add ginger-garlic paste and green chilies; cook until fragrant. Add tomatoes and cook until they soften and the oil starts separating. Stir in turmeric powder, red chili powder, ground coriander, and garam masala. ",
-            "Add the marinated prawns to the pan and cook for 5-7 minutes, or until they turn pink and are cooked through. Set aside. ",
-            "In a separate pot, bring 4 cups of water to a boil. Add a pinch of salt. Add the soaked and drained rice to the boiling water and cook until 70% done (parboiled). Drain the rice. ",
-            "In the pan with the prawn mixture, layer the partially cooked rice over the prawns. Sprinkle saffron (dissolved in milk) over the top layer of rice. Garnish with fresh coriander and mint leaves. Cover the pan with a tight-fitting lid and cook on low heat for 15-20 minutes to allow the flavors to meld and the rice to cook fully. Gently fluff the biryani with a fork and serve hot with raita or salad."
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 25g",
-            "Fat":"15g",
-            "Fiber":"3g",
-            "Carbohydrates":"45g"
-        }
-    },
-
-    {
-        "id": 17,
-        "img": "Dishes Images/lamb vindaloo.jpg",
-        "Dish": "Lamb Vindaloo",
-        "Dishname": "Lamb_Vindaloo",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 Minutes",
-        "cockingTime": "45 Minutes",
-        "totalTime": "1 Hour",
-        "Serving": "4 servings",
-        "ingredients": "500g lamb (cut into pieces), 1/2 cup vinegar, 1 tablespoon ginger-garlic paste, 1 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon cumin seeds, 1 teaspoon ground coriander, 1 teaspoon paprika (for color), 2 tablespoons oil, 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 2-3 green chilies, slit (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1 teaspoon mustard seeds, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 cup water, Fresh coriander leaves for garnish, Salt to taste. ",
-        "instructions": [
-            "In a bowl, mix vinegar, ginger-garlic paste, turmeric powder, red chili powder, cumin seeds, ground coriander, paprika, and salt. ",
-            "Add the lamb pieces and coat them well. Cover and refrigerate for at least 1 hour.",
-            "Heat oil in a large pan over medium heat. Add cumin seeds and mustard seeds; let them sizzle. Add the sliced onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. ",
-            "Add chopped or pureed tomatoes and cook until the oil starts separating. Add turmeric powder, red chili powder, ground coriander, and salt. Mix well. ",
-            "Add the marinated lamb pieces and cook for 5-7 minutes until the lamb is browned. Add 1/2 cup of water, cover, and cook on low heat for 45 minutes to 1 hour, or until the lamb is tender and the sauce has thickened. Stir occasionally and add more water if needed. ",
-            "Stir in garam masala and cook for an additional 5 minutes. Garnish with fresh coriander leaves. Serve hot with rice or naan. "
-        ],
-        "nurtrition": {
-            "Calories":"450 kcal",
-            "Protein":" 30g",
-            "Fat":"15g",
-            "Fiber":"4g",
-            "Carbohydrates":"12g"
+        "name" :  {
+            "id": 9,
+            "img": "Dishes Images/Seekh kabab.jpg",
+            "Dish": " Seekh Kebab ",
+            "Dishname": "Seekh_Kebab",
+            "typeofDish": "Non-Veg",
+            "preparationTime": " 20 minutes",
+            "cockingTime": "1 hour (Marination Time ) + 20 minutes",
+            "totalTime": " 1 hour 40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g minced lamb or chicken, 1 medium onion, finely chopped, 1 tablespoon ginger-garlic paste, 2 green chilies, finely chopped, 1 tablespoon coriander powder, 1 teaspoon cumin powder, 1 teaspoon garam masala, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 tablespoon lemon juice,1/4 cup fresh coriander leaves, finely chopped,1/4 cup fresh mint leaves, finely chopped, 1 tablespoon vegetable oil or melted butter (for basting), Salt to taste. ",
+            "instructions": [
+                " In a large mixing bowl, combine minced meat (lamb or chicken), chopped onions, ginger-garlic paste, green chilies, coriander powder, cumin powder, garam masala, red chili powder, turmeric powder, lemon juice, fresh coriander, fresh mint, and salt.",
+                "Mix everything thoroughly until well combined.- Cover the mixture and refrigerate for at least 1 hour to allow the Flavors to develop. ",
+                "Once the mixture is marinated, take small portions of the meat mixture and mold it around metal or wooden skewers, shaping it into long kebabs. If using wooden skewers, soak them in water for 30 minutes to prevent burning. ",
+                " Preheat a grill or oven to 200°C (400°F). If grilling, place the kebabs on the hot grill and cook for 15-20 minutes, turning occasionally, until they are cooked through and lightly charred. ",
+                "If using an oven, place the skewers on a baking tray lined with foil and bake for 20 minutes, turning once halfway through. Baste the kebabs with oil or melted butter during cooking to keep them moist. ",
+                " Serve the seekh kebabs hot with mint chutney, lemon wedges, and sliced onions. They can also be served with naan or as a filling for wraps. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 25g",
+                "Fat":"18g",
+                "Fiber":"2g",
+                "Carbohydrates":"6g"
+            }
         }
     },
 
 
     {
-        "id": 18,
-        "img": "Dishes Images/chicken saag.jpg",
-        "Dish": "Chicken Saag",
-        "Dishname": "Chicken_Saag",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 Minutes",
-        "cockingTime": "45 Minutes",
-        "totalTime": "1 Hour",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 300g spinach (fresh or frozen, thawed and drained), 2 tablespoons ghee or oil, 2 large onions, finely chopped, 2 tomatoes, chopped, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1 teaspoon cumin seeds, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/4 cup cream (optional), Fresh coriander leaves for garnish, Salt to taste.",
-        "instructions": [
-            "In a bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, and salt. Add the chicken pieces and coat them well. Cover and refrigerate for at least 30 minutes. ",
-            "If using fresh spinach, blanch it in boiling water for 2-3 minutes, then blend it into a smooth puree. If using frozen spinach, simply blend it. Heat ghee or oil in a large pan over medium heat. Add cumin seeds and let them sizzle. ",
-            "Add chopped onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. Add chopped tomatoes and cook until they soften and the oil starts separating from the mixture. ",
-            "Add turmeric powder, red chili powder, ground coriander, and salt to the onion-tomato mixture. Add the marinated chicken and cook until it is browned. ",
-            "Stir in the spinach puree and cook on medium heat for 15-20 minutes, or until the chicken is cooked through and the flavors are well combined. If using, stir in the cream and cook for an additional 5 minutes. ",
-            "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 30g",
-            "Fat":"15g",
-            "Fiber":"4g",
-            "Carbohydrates":"12g"
+        "name" :  {
+            "id": 10,
+            "img": "Dishes Images/mutton Rogan josh.jpg",
+            "Dish": "Mutton Rogan Josh",
+            "Dishname": "Mutton_Rogan_Josh",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 minutes ",
+            "cockingTime": "1 hour 30 minutes ",
+            "totalTime": "1 hour 50 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton (goat or lamb, cut into medium pieces), 2 tablespoons mustard oil (or vegetable oil), 1 large onion, finely sliced, 1 tablespoon ginger-garlic paste, 1/2 cup plain yogurt (whisked), 2-3 green cardamom pods, 2-3 cloves, 1 bay leaf, 1 cinnamon stick, 1/2 teaspoon cumin seeds,1 teaspoon red chili powder (preferably Kashmiri red chili powder for color), 1 teaspoon ground coriander, 1/2 teaspoon turmeric powder,1/2 teaspoon fennel powder, 1/2 teaspoon garam masala, 2-3 tablespoons water, Fresh coriander leaves for garnish Salt to taste. ",
+            "instructions": [
+                " Heat mustard oil in a large heavy-bottomed pan or pressure cooker over medium heat. Add the cumin seeds, cardamom pods, cloves, bay leaf, and cinnamon stick. Let them sizzle for a minute until fragrant. Add the sliced onions and sauté until golden brown. ",
+                "Add the ginger-garlic paste to the onions and cook for another 2-3 minutes until the raw smell disappears. Stir in the red chili powder, ground coriander, turmeric powder, and fennel powder. Add the mutton pieces and sear them on all sides until they turn brown, about 8-10 minutes. ",
+                "Lower the heat and add the whisked yogurt, a little at a time, stirring continuously to prevent curdling. Cook the mutton in the yogurt and spices for about 10-15 minutes, allowing the yogurt to thicken.",
+                "Add 2-3 tablespoons of water, cover the pan, and let the mutton cook on low heat for 1-1.5 hours until the meat is tender and the oil starts separating from the gravy.",
+                "If using a pressure cooker, cook for 5-6 whistles until the mutton is tender. Stir occasionally and add more water if needed to adjust the gravy's consistency. ",
+                "Stir in the garam masala and cook for another 5 minutes. Garnish with fresh coriander leaves. Serve hot with steamed rice, naan, or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"450 kcal",
+                "Protein":" 30g",
+                "Fat":"25g",
+                "Fiber":"2g",
+                "Carbohydrates":"10g"
+            }
         }
     },
 
 
     {
-        "id": 19,
-        "img": "Dishes Images/mutton korma.jpg",
-        "Dish": "Mutton Korma",
-        "Dishname": "Mutton_Korma",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "15 Minutes",
-        "cockingTime": "45 Minutes",
-        "totalTime": "1 Hour",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, 2 tablespoons ghee or oil, 2 large onions, finely sliced, 1/4 cup cashew nuts (soaked in warm water for 30 minutes), 1/4 cup coconut (grated or desiccated, optional), 1 tablespoon ginger-garlic paste, 2 tomatoes, chopped or pureed, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon ground cardamom, 1/2 teaspoon ground cinnamon, 1/4 cup cream or coconut milk, Fresh coriander leaves for garnish, Salt to taste.",
-        "instructions": [
-            "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, lemon juice, and salt. Add the mutton pieces and coat them well. Cover and refrigerate for at least 1 hour, or overnight for best results.",
-            "Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. Remove half for garnishing later. Add ginger-garlic paste to the remaining onions and cook until fragrant. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
-            "Blend the soaked cashew nuts and grated coconut into a smooth paste using a little water. ",
-            "Add turmeric powder, red chili powder, ground coriander, garam masala, ground cardamom, and ground cinnamon to the onion-tomato mixture. Add the marinated mutton and cook for 5-7 minutes, stirring occasionally. ",
-            "Stir in the nut and coconut paste, mix well, and cook for a few minutes. Add cream or coconut milk and cook on low heat for 40-45 minutes, or until the mutton is tender and the sauce is thickened. Add water if needed to adjust the consistency.",
-            "Garnish with the reserved fried onions and fresh coriander leaves. Serve hot with naan, roti, or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 30g",
-            "Fat":"30g",
-            "Fiber":"4g",
-            "Carbohydrates":"12g"
+        "name" : {
+            "id": 11,
+            "img": "Dishes Images/chicken 65.jpg",
+            "Dish": " Chicken 65",
+            "Dishname": "Chicken_65",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes ",
+            "cockingTime": "1 hour + 20 minutes ",
+            "totalTime": " 1 hour 35 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (boneless, cut into bite-sized pieces),1/2 cup yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon garam masala,1 tablespoon lemon juice, 1/2 cup all-purpose flour, 1/4 cup cornstarch, 1/2 teaspoon red chili powder, 1/2 teaspoon black pepper powder, Oil for deep frying, Fresh curry leaves, Lemon wedges, Sliced onions, Salt to taste. ",
+            "instructions": [
+                " In a large bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Add the chicken pieces and mix well to coat them evenly. Cover and refrigerate for at least 1 hour. ",
+                " In a separate bowl, mix all-purpose flour, cornstarch, red chili powder, black pepper powder, and salt. ",
+                " Remove the marinated chicken from the refrigerator. Dredge each piece of chicken in the flour mixture, ensuring an even coating. ",
+                "Heat oil in a deep-frying pan or wok over medium heat. Fry the coated chicken pieces in batches, making sure not to overcrowd the pan.  ",
+                "Fry until golden brown and crispy, about 4-5 minutes per batch.Remove the fried chicken with a slotted spoon and drain on paper towels. ",
+                " In a small pan, heat a little oil and fry fresh curry leaves until crisp. Garnish the fried chicken with the crispy curry leaves, lemon wedges, and sliced onions. Serve hot as a snack or appetizer. "
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 25g",
+                "Fat":"20g",
+                "Fiber":"2g",
+                "Carbohydrates":"20g"
+            }
         }
     },
 
 
     {
-        "id": 20,
-        "img": "Dishes Images/chicken haleem.jpg",
-        "Dish": "Chicken Haleem",
-        "Dishname": "Chicken_Haleem",
-        "typeofDish": "Non-Veg",
-       "preparationTime": "15 Minutes",
-        "cockingTime": "1 Hour 30 Minutes",
-        "totalTime": "1 Hour 45 Minutes",
-        "Serving": "4 servings",
-        "ingredients": "1/2 cup broken wheat (Dalia), 1/2 cup split chickpeas (chana dal), 1/2 cup yellow lentils (moong dal), 500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 teaspoon cumin seeds, 2 large onions, finely sliced, 2 tomatoes, chopped, 4 cups chicken broth or water, 2 tablespoons ghee or oil, Fresh coriander leaves and fried onions for garnish, Lemon wedges for serving, Salt to taste.",
-        "instructions": [
-            "Rinse the broken wheat, split chickpeas, and yellow lentils thoroughly. Soak them in water for at least 1 hour, then drain. ",
-            "Heat ghee or oil in a large pot over medium heat. Add cumin seeds and let them sizzle. Add sliced onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. ",
-            "Add chopped tomatoes and cook until they soften and the oil starts separating. Add red chili powder, turmeric powder, ground coriander, and salt. Mix well. Add the chicken pieces and cook until browned. Add yogurt and mix well. Cook for a few minutes until the chicken is coated with the spices. ",
-            "Add the soaked and drained grains and lentils to the pot. Pour in chicken broth or water, stir well, and bring to a boil. Reduce the heat, cover, and simmer for 1.5 to 2 hours, stirring occasionally, until the grains and lentils are very soft and the mixture has thickened.",
-            "Use an immersion blender to blend the mixture until smooth and creamy. Alternatively, you can transfer it in batches to a blender.",
-            "Stir in garam masala and cook for an additional 5 minutes. Garnish with fresh coriander leaves and fried onions. Serve hot with lemon wedges and naan or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"500 kcal",
-            "Protein":" 35g",
-            "Fat":"20g",
-            "Fiber":"10g",
-            "Carbohydrates":"45g"
+        "name" :  {
+            "id": 12,
+            "img": "Dishes Images/Hyderabadi biriyani.jpg",
+            "Dish": " Hyderabadi Chicken",
+            "Dishname": "Hyderabadi_Chicken",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 minutes ",
+            "cockingTime": "45 minutes",
+            "totalTime": "1 hour 5 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (cut into pieces),1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 2 tablespoons oil (vegetable or ghee), 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1 teaspoon cumin seeds,1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 cup coconut milk (optional), Fresh coriander leaves for garnish, Salt to taste. ",
+            "instructions": [
+                "In a large bowl, combine yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, ground coriander, garam masala, and salt. Add chicken pieces and mix well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
+                "Heat oil or ghee in a large pan over medium heat. Add cumin seeds and let them sizzle. Add sliced onions and sauté until golden brown. Add ginger-garlic paste and cook for 2-3 minutes until the raw smell disappears. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
+                "Add turmeric powder, red chili powder, ground coriander, and garam masala to the onion-tomato mixture. ",
+                " Add the marinated chicken and cook on medium heat for 10-15 minutes, stirring occasionally. If using coconut milk, add it now and mix well. ",
+                "Cover and cook on low heat for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened. Stir occasionally and add water if needed to adjust the consistency. ",
+                "Garnish with fresh coriander leaves. Serve hot with rice, naan, or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 30g",
+                "Fat":"18g",
+                "Fiber":"3g",
+                "Carbohydrates":"10g"
+            }
+        }    
+    },
+
+
+    {
+        "name" : 
+        {
+            "id": 13,
+            "img": "Dishes Images/Lucknowi mutton.jpg",
+            "Dish": "Lucknowi Mutton",
+            "Dishname": "Lucknowi_Mutton",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 minutes ",
+            "cockingTime": " 1 hour 30 minutes ",
+            "totalTime": "1 hour 50 minutes ",
+            "Serving": "4 servings",
+            "ingredients": " 500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 2 tablespoons ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon red chili powder,1/2 teaspoon turmeric powder,1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon cumin powder, 2 tablespoons ghee or oil, 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon saffron threads (optional),Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                " In a large bowl, combine yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, ground coriander, garam masala, cumin powder, and salt.  ",
+                "Add the mutton pieces and mix well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
+                "- Heat ghee or oil in a large heavy-bottomed pan over medium heat. Add the sliced onions and sauté until golden brown. Add ginger-garlic paste and cook until the raw smell disappears. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
+                " Add turmeric powder, red chili powder, ground coriander, and garam masala to the onion-tomato mixture. Add the marinated mutton and cook on medium heat for 10-15 minutes, stirring occasionally. ",
+                "Add 1-2 cups of water to cover the mutton. If using saffron, dissolve it in a little warm water and add it to the curry. Cover and cook on low heat for 1-1.5 hours, or until the mutton is tender and the gravy has thickened. Stir occasionally and add more water if needed.",
+                "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice."
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 30g",
+                "Fat":"25g",
+                "Fiber":"3g",
+                "Carbohydrates":"12g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : 
+        {
+            "id": 14,
+            "img": "Dishes Images/chicken korma.jpg",
+            "Dish": "Chicken Korma",
+            "Dishname": "Chicken_Korma",
+            "typeofDish": "Non-Veg",
+            "preparationTime": " 20 minutes",
+            "cockingTime": "45 minutes ",
+            "totalTime": "1 hour 5 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 tablespoon lemon juice, 1 teaspoon ground coriander,1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 2 tablespoons ghee or oil,2 large onions, finely sliced1/4 cup cashew nuts (soaked in warm water for 30 minutes), 1/4 cup coconut, grated or desiccated (optional),1 tablespoon ginger-garlic paste,1/2 teaspoon turmeric powder,1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala,1/2 teaspoon ground cardamom, 1/2 teaspoon ground cinnamon,1/2 cup cream or coconut milk, Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                "In a bowl, mix yogurt, ginger-garlic paste, lemon juice, ground coriander, turmeric powder, red chili powder, and salt. Add the chicken pieces and coat them well. Cover and refrigerate for at least 1 hour, or overnight for best results. ",
+                "Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. Remove half for garnishing later. Add ginger-garlic paste to the remaining onions and cook until the raw smell disappears. ",
+                "Blend the soaked cashew nuts and grated coconut into a smooth paste using a little water.",
+                "Add the turmeric powder, red chili powder, ground coriander, garam masala, ground cardamom, and ground cinnamon to the onion mixture. Add the marinated chicken and cook until the chicken is browned.",
+                "Stir in the nut and coconut paste, mix well, and cook for a few minutes. Add cream or coconut milk and cook on low heat for 20-25 minutes, or until the chicken is cooked through and the sauce is thickened. ",
+                "Garnish with the reserved fried onions and fresh coriander leaves. Serve hot with naan, roti, or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 30g",
+                "Fat":"25g",
+                "Fiber":"3g",
+                "Carbohydrates":"15g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 15,
+            "img": "Dishes Images/fish tikka.jpg",
+            "Dish": " Fish Tikka",
+            "Dishname": "Fish_Tikka",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": " 1 hour (Marination Time) + 15 minutes ",
+            "totalTime": " 1 hour 30 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g firm white fish (such as cod, haddock, or tilapia), cut into chunks, 1/2 cup plain yogurt,2 tablespoons lemon juice, 1 tablespoon ginger-garlic paste,1 teaspoon red chili powder, 1/2 teaspoon turmeric powder,1 teaspoon ground coriander,1 teaspoon garam masala, 1/2 teaspoon cumin powder, 1/2 teaspoon paprika (for color), Fresh coriander leaves, Lemon wedges, Sliced onions, Salt to taste. ",
+            "instructions": [
+                " In a bowl, mix yogurt, lemon juice, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, cumin powder, paprika, and salt.  ",
+                "Add the fish pieces and coat them well with the marinade. Cover and refrigerate for at least 1 hour. ",
+                " Preheat your grill or oven to 200°C (400°F). If using a grill, ensure it is preheated and well-oiled. ",
+                " If using a grill, thread the marinated fish pieces onto skewers. Grill the fish for 10-15 minutes, turning occasionally, until it is cooked through and has a nice charred surface. ",
+                "If using an oven, place the fish pieces on a baking tray lined with foil or parchment paper. Bake for 12-15 minutes, or until the fish is cooked through and slightly charred. ",
+                "Garnish with fresh coriander leaves, lemon wedges, and sliced onions. Serve hot with naan, roti, or as an appetizer with mint chutney. "
+            ],
+            "nurtrition": {
+                "Calories":"250 kcal",
+                "Protein":" 30g",
+                "Fat":"10g",
+                "Fiber":"2g",
+                "Carbohydrates":"10g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 16,
+            "img": "Dishes Images/prawn biryani.jpg",
+            "Dish": "Prawn Biryani",
+            "Dishname": "Prawn_Biryani",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 Minutes",
+            "cockingTime": "45 Minutes",
+            "totalTime": "1 Hour",
+            "Serving": "4 servings",
+            "ingredients": "500g prawns (peeled and deveined), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 2 cups basmati rice, 2 tablespoons ghee or oil, 2 large onions, thinly sliced, 2 tomatoes, chopped, 2-3 green chilies, slit, 1 tablespoon ginger-garlic paste, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon saffron threads (optional), 1/4 cup milk (for saffron), Fresh coriander and mint leaves for garnish, 4 cups water, Salt to taste.",
+            "instructions": [
+                "In a bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, and salt. Add the prawns and mix well. Cover and refrigerate for at least 30 minutes. ",
+                "Rinse the basmati rice in cold water until the water runs clear. Soak the rice in water for 30 minutes, then drain. Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. ",
+                "Add ginger-garlic paste and green chilies; cook until fragrant. Add tomatoes and cook until they soften and the oil starts separating. Stir in turmeric powder, red chili powder, ground coriander, and garam masala. ",
+                "Add the marinated prawns to the pan and cook for 5-7 minutes, or until they turn pink and are cooked through. Set aside. ",
+                "In a separate pot, bring 4 cups of water to a boil. Add a pinch of salt. Add the soaked and drained rice to the boiling water and cook until 70% done (parboiled). Drain the rice. ",
+                "In the pan with the prawn mixture, layer the partially cooked rice over the prawns. Sprinkle saffron (dissolved in milk) over the top layer of rice. Garnish with fresh coriander and mint leaves. Cover the pan with a tight-fitting lid and cook on low heat for 15-20 minutes to allow the flavors to meld and the rice to cook fully. Gently fluff the biryani with a fork and serve hot with raita or salad."
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 25g",
+                "Fat":"15g",
+                "Fiber":"3g",
+                "Carbohydrates":"45g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 17,
+            "img": "Dishes Images/lamb vindaloo.jpg",
+            "Dish": "Lamb Vindaloo",
+            "Dishname": "Lamb_Vindaloo",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 Minutes",
+            "cockingTime": "45 Minutes",
+            "totalTime": "1 Hour",
+            "Serving": "4 servings",
+            "ingredients": "500g lamb (cut into pieces), 1/2 cup vinegar, 1 tablespoon ginger-garlic paste, 1 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon cumin seeds, 1 teaspoon ground coriander, 1 teaspoon paprika (for color), 2 tablespoons oil, 2 large onions, finely sliced, 2 tomatoes, chopped or pureed, 2-3 green chilies, slit (optional), 1 tablespoon ginger-garlic paste, 1 teaspoon cumin seeds, 1 teaspoon mustard seeds, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 cup water, Fresh coriander leaves for garnish, Salt to taste. ",
+            "instructions": [
+                "In a bowl, mix vinegar, ginger-garlic paste, turmeric powder, red chili powder, cumin seeds, ground coriander, paprika, and salt. ",
+                "Add the lamb pieces and coat them well. Cover and refrigerate for at least 1 hour.",
+                "Heat oil in a large pan over medium heat. Add cumin seeds and mustard seeds; let them sizzle. Add the sliced onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. ",
+                "Add chopped or pureed tomatoes and cook until the oil starts separating. Add turmeric powder, red chili powder, ground coriander, and salt. Mix well. ",
+                "Add the marinated lamb pieces and cook for 5-7 minutes until the lamb is browned. Add 1/2 cup of water, cover, and cook on low heat for 45 minutes to 1 hour, or until the lamb is tender and the sauce has thickened. Stir occasionally and add more water if needed. ",
+                "Stir in garam masala and cook for an additional 5 minutes. Garnish with fresh coriander leaves. Serve hot with rice or naan. "
+            ],
+            "nurtrition": {
+                "Calories":"450 kcal",
+                "Protein":" 30g",
+                "Fat":"15g",
+                "Fiber":"4g",
+                "Carbohydrates":"12g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 18,
+            "img": "Dishes Images/chicken saag.jpg",
+            "Dish": "Chicken Saag",
+            "Dishname": "Chicken_Saag",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 Minutes",
+            "cockingTime": "45 Minutes",
+            "totalTime": "1 Hour",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 300g spinach (fresh or frozen, thawed and drained), 2 tablespoons ghee or oil, 2 large onions, finely chopped, 2 tomatoes, chopped, 1 tablespoon ginger-garlic paste, 2-3 green chilies, slit (optional), 1 teaspoon cumin seeds, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/4 cup cream (optional), Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                "In a bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, and salt. Add the chicken pieces and coat them well. Cover and refrigerate for at least 30 minutes. ",
+                "If using fresh spinach, blanch it in boiling water for 2-3 minutes, then blend it into a smooth puree. If using frozen spinach, simply blend it. Heat ghee or oil in a large pan over medium heat. Add cumin seeds and let them sizzle. ",
+                "Add chopped onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. Add chopped tomatoes and cook until they soften and the oil starts separating from the mixture. ",
+                "Add turmeric powder, red chili powder, ground coriander, and salt to the onion-tomato mixture. Add the marinated chicken and cook until it is browned. ",
+                "Stir in the spinach puree and cook on medium heat for 15-20 minutes, or until the chicken is cooked through and the flavors are well combined. If using, stir in the cream and cook for an additional 5 minutes. ",
+                "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 30g",
+                "Fat":"15g",
+                "Fiber":"4g",
+                "Carbohydrates":"12g"
+            }
+        }    
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 19,
+            "img": "Dishes Images/mutton korma.jpg",
+            "Dish": "Mutton Korma",
+            "Dishname": "Mutton_Korma",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "15 Minutes",
+            "cockingTime": "45 Minutes",
+            "totalTime": "1 Hour",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton (goat or lamb, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 tablespoon lemon juice, 2 tablespoons ghee or oil, 2 large onions, finely sliced, 1/4 cup cashew nuts (soaked in warm water for 30 minutes), 1/4 cup coconut (grated or desiccated, optional), 1 tablespoon ginger-garlic paste, 2 tomatoes, chopped or pureed, 1/2 teaspoon turmeric powder, 1 teaspoon red chili powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1/2 teaspoon ground cardamom, 1/2 teaspoon ground cinnamon, 1/4 cup cream or coconut milk, Fresh coriander leaves for garnish, Salt to taste.",
+            "instructions": [
+                "In a bowl, mix yogurt, ginger-garlic paste, red chili powder, turmeric powder, ground coriander, garam masala, lemon juice, and salt. Add the mutton pieces and coat them well. Cover and refrigerate for at least 1 hour, or overnight for best results.",
+                "Heat ghee or oil in a large pan over medium heat. Add the sliced onions and cook until golden brown. Remove half for garnishing later. Add ginger-garlic paste to the remaining onions and cook until fragrant. Add chopped or pureed tomatoes and cook until the oil starts separating from the mixture.",
+                "Blend the soaked cashew nuts and grated coconut into a smooth paste using a little water. ",
+                "Add turmeric powder, red chili powder, ground coriander, garam masala, ground cardamom, and ground cinnamon to the onion-tomato mixture. Add the marinated mutton and cook for 5-7 minutes, stirring occasionally. ",
+                "Stir in the nut and coconut paste, mix well, and cook for a few minutes. Add cream or coconut milk and cook on low heat for 40-45 minutes, or until the mutton is tender and the sauce is thickened. Add water if needed to adjust the consistency.",
+                "Garnish with the reserved fried onions and fresh coriander leaves. Serve hot with naan, roti, or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 30g",
+                "Fat":"30g",
+                "Fiber":"4g",
+                "Carbohydrates":"12g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 20,
+            "img": "Dishes Images/chicken haleem.jpg",
+            "Dish": "Chicken Haleem",
+            "Dishname": "Chicken_Haleem",
+            "typeofDish": "Non-Veg",
+           "preparationTime": "15 Minutes",
+            "cockingTime": "1 Hour 30 Minutes",
+            "totalTime": "1 Hour 45 Minutes",
+            "Serving": "4 servings",
+            "ingredients": "1/2 cup broken wheat (Dalia), 1/2 cup split chickpeas (chana dal), 1/2 cup yellow lentils (moong dal), 500g chicken (boneless, cut into pieces), 1/2 cup plain yogurt, 1 tablespoon ginger-garlic paste, 1 teaspoon red chili powder, 1/2 teaspoon turmeric powder, 1 teaspoon ground coriander, 1 teaspoon garam masala, 1 teaspoon cumin seeds, 2 large onions, finely sliced, 2 tomatoes, chopped, 4 cups chicken broth or water, 2 tablespoons ghee or oil, Fresh coriander leaves and fried onions for garnish, Lemon wedges for serving, Salt to taste.",
+            "instructions": [
+                "Rinse the broken wheat, split chickpeas, and yellow lentils thoroughly. Soak them in water for at least 1 hour, then drain. ",
+                "Heat ghee or oil in a large pot over medium heat. Add cumin seeds and let them sizzle. Add sliced onions and cook until golden brown. Add ginger-garlic paste and cook until fragrant. ",
+                "Add chopped tomatoes and cook until they soften and the oil starts separating. Add red chili powder, turmeric powder, ground coriander, and salt. Mix well. Add the chicken pieces and cook until browned. Add yogurt and mix well. Cook for a few minutes until the chicken is coated with the spices. ",
+                "Add the soaked and drained grains and lentils to the pot. Pour in chicken broth or water, stir well, and bring to a boil. Reduce the heat, cover, and simmer for 1.5 to 2 hours, stirring occasionally, until the grains and lentils are very soft and the mixture has thickened.",
+                "Use an immersion blender to blend the mixture until smooth and creamy. Alternatively, you can transfer it in batches to a blender.",
+                "Stir in garam masala and cook for an additional 5 minutes. Garnish with fresh coriander leaves and fried onions. Serve hot with lemon wedges and naan or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"500 kcal",
+                "Protein":" 35g",
+                "Fat":"20g",
+                "Fiber":"10g",
+                "Carbohydrates":"45g"
+            }
         }
     },
 
 
     {
-        "id": 21,
-        "img": "Dishes Images/palak paneer.jpg",
-        "Dish": "Palak Paneer",
-        "Dishname": "Palak_Paneer",
-        "typeofDish": "Veg",
-        "preparationTime": "10 Minutes",
-        "cockingTime": "30 minutes ",
-        "totalTime": " 40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "250g paneer (cubed), 300g spinach (palak), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 2 tbsp fresh cream or yogurt (optional), 2 tbsp oil, Salt to taste.",
-        "instructions": [
-            "Blanch spinach in hot water for 2-3 minutes and then transfer it to cold water. Blend into a smooth puree.",
-            "Heat oil in a pan and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
-            " Add ginger-garlic paste, green chili, and sauté for a minute. Add pureed tomatoes and cook until the oil separates.",
-            "Add turmeric, coriander powder, red chili powder, and salt. Mix well. Pour in the spinach puree and cook for 5 minutes. ",
-            "Add paneer cubes and garam masala. Cook for another 5 minutes. Stir in cream or yogurt, and simmer for a couple of minutes.",
-            "Serve hot with naan or rice."
-        ],
-        "nurtrition": {
-            "Calories":"240 kcal",
-            "Protein":" 12g",
-            "Fat":"16g",
-            "Fiber":"4g",
-            "Carbohydrates":"10g"
+        "name" : {
+            "id": 21,
+            "img": "Dishes Images/palak paneer.jpg",
+            "Dish": "Palak Paneer",
+            "Dishname": "Palak_Paneer",
+            "typeofDish": "Veg",
+            "preparationTime": "10 Minutes",
+            "cockingTime": "30 minutes ",
+            "totalTime": " 40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "250g paneer (cubed), 300g spinach (palak), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 2 tbsp fresh cream or yogurt (optional), 2 tbsp oil, Salt to taste.",
+            "instructions": [
+                "Blanch spinach in hot water for 2-3 minutes and then transfer it to cold water. Blend into a smooth puree.",
+                "Heat oil in a pan and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
+                " Add ginger-garlic paste, green chili, and sauté for a minute. Add pureed tomatoes and cook until the oil separates.",
+                "Add turmeric, coriander powder, red chili powder, and salt. Mix well. Pour in the spinach puree and cook for 5 minutes. ",
+                "Add paneer cubes and garam masala. Cook for another 5 minutes. Stir in cream or yogurt, and simmer for a couple of minutes.",
+                "Serve hot with naan or rice."
+            ],
+            "nurtrition": {
+                "Calories":"240 kcal",
+                "Protein":" 12g",
+                "Fat":"16g",
+                "Fiber":"4g",
+                "Carbohydrates":"10g"
+            }
         }
     },
 
 
     {
-        "id": 22,
-        "img": "Dishes Images/chana masala.jpg",
-        "Dish": "Chana Masala",
-        "Dishname": "Chana_Masala",
-        "typeofDish": "Veg",
-        "preparationTime": "10 Minutes",
-        "cockingTime": "40 minutes ",
-        "totalTime": " 50 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 cups chickpeas (soaked overnight or use canned), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp chana masala powder (optional), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "If using soaked chickpeas, pressure cook them with salt until soft (4-5 whistles). If using canned, drain and rinse. ",
-            "Heat oil in a pan and add cumin seeds. Once they splutter, add onions and sauté until golden brown.",
-            "Add ginger-garlic paste and green chili. Sauté for a minute.  Add tomato puree and cook until oil separates.",
-            "Add turmeric, coriander powder, red chili powder, and chana masala. Mix well and cook for 2-3 minutes.",
-            " Add the cooked chickpeas and enough water to reach the desired consistency. Simmer for 15-20 minute",
-            "Stir in garam masala and garnish with fresh cilantro.  Serve hot with rice or roti."
-        ],
-        "nurtrition": {
-            "Calories":"270 kcal",
-            "Protein":" 12g",
-            "Fat":"7g",
-            "Fiber":"10g",
-            "Carbohydrates":"38g"
+        "name" : {
+            "id": 22,
+            "img": "Dishes Images/chana masala.jpg",
+            "Dish": "Chana Masala",
+            "Dishname": "Chana_Masala",
+            "typeofDish": "Veg",
+            "preparationTime": "10 Minutes",
+            "cockingTime": "40 minutes ",
+            "totalTime": " 50 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 cups chickpeas (soaked overnight or use canned), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp chana masala powder (optional), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "If using soaked chickpeas, pressure cook them with salt until soft (4-5 whistles). If using canned, drain and rinse. ",
+                "Heat oil in a pan and add cumin seeds. Once they splutter, add onions and sauté until golden brown.",
+                "Add ginger-garlic paste and green chili. Sauté for a minute.  Add tomato puree and cook until oil separates.",
+                "Add turmeric, coriander powder, red chili powder, and chana masala. Mix well and cook for 2-3 minutes.",
+                " Add the cooked chickpeas and enough water to reach the desired consistency. Simmer for 15-20 minute",
+                "Stir in garam masala and garnish with fresh cilantro.  Serve hot with rice or roti."
+            ],
+            "nurtrition": {
+                "Calories":"270 kcal",
+                "Protein":" 12g",
+                "Fat":"7g",
+                "Fiber":"10g",
+                "Carbohydrates":"38g"
+            }
         }
     },
 
 
     {
-        "id": 23,
-        "img": "Dishes Images/saag aloo.jpg",
-        "Dish": "Saag Aloo",
-        "Dishname": "Saag_Aloo",
-        "typeofDish": "Veg",
-        "preparationTime": "10 Minutes",
-        "cockingTime": "30 minutes ",
-        "totalTime": " 40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "300g spinach (blanched and pureed), 3 medium potatoes (peeled and cubed), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, ½ tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown.",
-            "Add ginger-garlic paste and green chili, sauté for a minute. Add tomato puree and cook until the oil separates.",
-            "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add cubed potatoes and sauté for a few minutes.",
-            "Pour in some water, cover, and cook the potatoes until tender (about 15 minutes). ",
-            " Add the spinach puree and cook for another 5-7 minutes. Sprinkle garam masala, mix well, and garnish with fresh cilantro.",
-            "Serve hot with roti or rice."
-        ],
-        "nurtrition": {
-            "Calories":"200 kcal",
-            "Protein":" 6g",
-            "Fat":"10g",
-            "Fiber":"6g",
-            "Carbohydrates":"22g"
+        "name" : {
+            "id": 23,
+            "img": "Dishes Images/saag aloo.jpg",
+            "Dish": "Saag Aloo",
+            "Dishname": "Saag_Aloo",
+            "typeofDish": "Veg",
+            "preparationTime": "10 Minutes",
+            "cockingTime": "30 minutes ",
+            "totalTime": " 40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "300g spinach (blanched and pureed), 3 medium potatoes (peeled and cubed), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, ½ tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown.",
+                "Add ginger-garlic paste and green chili, sauté for a minute. Add tomato puree and cook until the oil separates.",
+                "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add cubed potatoes and sauté for a few minutes.",
+                "Pour in some water, cover, and cook the potatoes until tender (about 15 minutes). ",
+                " Add the spinach puree and cook for another 5-7 minutes. Sprinkle garam masala, mix well, and garnish with fresh cilantro.",
+                "Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"200 kcal",
+                "Protein":" 6g",
+                "Fat":"10g",
+                "Fiber":"6g",
+                "Carbohydrates":"22g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 24,
+            "img": "Dishes Images/vegetable korma.jpg",
+            "Dish": "Vegetable Korma",
+            "Dishname": "Vegetable_Korma",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "50 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 cups mixed vegetables (carrots, peas, potatoes, cauliflower), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, ½ cup coconut milk or cashew paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp garam masala, 1 tsp ground fennel seeds, 1 tsp red chili powder, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter.",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute.",
+                "Add tomato puree and cook until the oil separates. ",
+                "Add turmeric, coriander powder, ground fennel, red chili powder, and salt.  Add the mixed vegetables and sauté for a few minutes.",
+                "Add water and cover. Let it cook until the vegetables are tender (about 10-15 minutes). ",
+                "Stir in coconut milk or cashew paste, and let it simmer for 5 minutes"
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 6g",
+                "Fat":"18g",
+                "Fiber":"6g",
+                "Carbohydrates":"30g"
+            }
         }
     },
 
 
     {
-        "id": 24,
-        "img": "Dishes Images/vegetable korma.jpg",
-        "Dish": "Vegetable Korma",
-        "Dishname": "Vegetable_Korma",
-        "typeofDish": "Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "30 minutes",
-        "totalTime": "50 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 cups mixed vegetables (carrots, peas, potatoes, cauliflower), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, ½ cup coconut milk or cashew paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp garam masala, 1 tsp ground fennel seeds, 1 tsp red chili powder, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds and let them splutter.",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute.",
-            "Add tomato puree and cook until the oil separates. ",
-            "Add turmeric, coriander powder, ground fennel, red chili powder, and salt.  Add the mixed vegetables and sauté for a few minutes.",
-            "Add water and cover. Let it cook until the vegetables are tender (about 10-15 minutes). ",
-            "Stir in coconut milk or cashew paste, and let it simmer for 5 minutes"
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 6g",
-            "Fat":"18g",
-            "Fiber":"6g",
-            "Carbohydrates":"30g"
+        "name" : {
+            "id": 25,
+            "img": "Dishes Images/dal makhani.jpg",
+            "Dish": "Dal Makhani",
+            "Dishname": "Dal_Makhani",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "1 hour",
+            "totalTime": "1 hour 15 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 cup black lentils (urad dal) (soaked overnight), ¼ cup red kidney beans (soaked overnight), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp red chili powder, ½ cup fresh cream, 3 tbsp butter, 1 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Pressure cook the soaked black lentils and kidney beans with salt until soft (4-5 whistles). ",
+                "Heat oil and butter in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown. ",
+                "Add ginger-garlic paste and green chili. Sauté for a minute. Add tomato puree and cook until oil separates. ",
+                "Add turmeric, coriander powder, red chili powder, and salt. Cook for a couple of minutes. ",
+                "Add the cooked lentils and beans, along with some water to adjust consistency. Simmer for 30 minutes. ",
+                "Stir in garam masala and fresh cream. Simmer for another 5 minutes. Garnish with fresh cilantro and serve hot with naan or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 14g",
+                "Fat":"16g",
+                "Fiber":"12g",
+                "Carbohydrates":"36g"
+            }
         }
     },
 
 
     {
-        "id": 25,
-        "img": "Dishes Images/dal makhani.jpg",
-        "Dish": "Dal Makhani",
-        "Dishname": "Dal_Makhani",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "1 hour",
-        "totalTime": "1 hour 15 minutes",
-        "Serving": "4 servings",
-        "ingredients": "1 cup black lentils (urad dal) (soaked overnight), ¼ cup red kidney beans (soaked overnight), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp red chili powder, ½ cup fresh cream, 3 tbsp butter, 1 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
-        "instructions": [
-            "Pressure cook the soaked black lentils and kidney beans with salt until soft (4-5 whistles). ",
-            "Heat oil and butter in a pan, add cumin seeds and let them splutter. Add onions and sauté until golden brown. ",
-            "Add ginger-garlic paste and green chili. Sauté for a minute. Add tomato puree and cook until oil separates. ",
-            "Add turmeric, coriander powder, red chili powder, and salt. Cook for a couple of minutes. ",
-            "Add the cooked lentils and beans, along with some water to adjust consistency. Simmer for 30 minutes. ",
-            "Stir in garam masala and fresh cream. Simmer for another 5 minutes. Garnish with fresh cilantro and serve hot with naan or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 14g",
-            "Fat":"16g",
-            "Fiber":"12g",
-            "Carbohydrates":"36g"
+        "name" : {
+            "id": 26,
+            "img": "Dishes Images/mattar paneer.jpeg",
+            "Dish": "Mattar Paneer",
+            "Dishname": "Mattar_Paneer",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "250g paneer (cubed), 1 cup green peas (fresh or frozen), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, ½ cup fresh cream or yogurt (optional), 2 tbsp oil, Salt to taste. ",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter. ",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add tomato puree and cook until the oil separates. ",
+                "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add green peas and some water. Cook for about 5-7 minutes. ",
+                "Add paneer cubes and garam masala. Let it simmer for 5 minutes. ",
+                "Stir in cream or yogurt, simmer for another 2 minutes. Serve hot with roti, naan, or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 12g",
+                "Fat":"20g",
+                "Fiber":"5g",
+                "Carbohydrates":"18g"
+            }
         }
     },
 
 
     {
-        "id": 26,
-        "img": "Dishes Images/mattar paneer.jpeg",
-        "Dish": "Mattar Paneer",
-        "Dishname": "Mattar_Paneer",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "250g paneer (cubed), 1 cup green peas (fresh or frozen), 1 medium onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, ½ cup fresh cream or yogurt (optional), 2 tbsp oil, Salt to taste. ",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds and let them splutter. ",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add tomato puree and cook until the oil separates. ",
-            "Add turmeric, coriander powder, red chili powder, and salt. Stir well. Add green peas and some water. Cook for about 5-7 minutes. ",
-            "Add paneer cubes and garam masala. Let it simmer for 5 minutes. ",
-            "Stir in cream or yogurt, simmer for another 2 minutes. Serve hot with roti, naan, or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 12g",
-            "Fat":"20g",
-            "Fiber":"5g",
-            "Carbohydrates":"18g"
+        "name" : {
+            "id": 27,
+            "img": "Dishes Images/baingan bharta.jpg",
+            "Dish": "Baingan Bharta",
+            "Dishname": "Baingan_Bharta",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 large eggplants (brinjal/baingan), 1 large onion (finely chopped), 2 tomatoes (pureed), 2 green chilies (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Roast the eggplants over an open flame or in the oven until soft and charred. Peel the skin and mash the flesh. ",
+                "Heat oil in a pan and add cumin seeds. ",
+                "Add chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, and sauté for a minute. ",
+                "Add tomato puree, turmeric powder, coriander powder, and salt. Cook until the oil separates. ",
+                "Add the mashed eggplant and mix well. Cook for 5-7 minutes. Sprinkle garam masala and garnish with fresh cilantro. ",
+                "Serve hot with roti or paratha. "
+            ],
+            "nurtrition": {
+                "Calories":"140 kcal",
+                "Protein":" 3g",
+                "Fat":"8g",
+                "Fiber":"7g",
+                "Carbohydrates":"16g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 28,
+            "img": "Dishes Images/vegetable biryani.jpg",
+            "Dish": "Vegetable Biryani",
+            "Dishname": "Vegetable_Biryani",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "40 minutes",
+            "totalTime": " 1 hour",
+            "Serving": "4 servings",
+            "ingredients": "1.5 cups basmati rice (soaked for 30 minutes), 1 cup mixed vegetables (carrots, peas, beans, cauliflower), 1 large onion (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 bay leaf, 1 cinnamon stick, 3 cloves, 1 tsp garam masala, 1 tsp biryani masala, ¼ cup yogurt, 2 tbsp oil or ghee, Fresh cilantro and mint leaves for garnish. ",
+            "instructions": [
+                "Cook the soaked basmati rice with a pinch of salt and set aside. ",
+                "Heat oil or ghee in a pan, add cumin seeds, bay leaf, cinnamon, and cloves. Sauté for a minute. Add sliced onions and cook until golden brown. ",
+                "Add ginger-garlic paste and green chili, sauté for a minute. Add chopped tomatoes and cook until oil separates. ",
+                "Add the mixed vegetables, biryani masala, garam masala, and salt. Cook for 5 minutes. Stir in yogurt and cook until vegetables are tender. ",
+                "Layer the vegetable mixture with cooked rice in a pan. Garnish with cilantro and mint leaves. ",
+                "Cover and let the biryani steam on low heat for 10 minutes. Serve hot with raita or a side of your choice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 8g",
+                "Fat":"12g",
+                "Fiber":"6g",
+                "Carbohydrates":"60g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 29,
+            "img": "Dishes Images/rajma masala.jpg",
+            "Dish": "Rajma Masala",
+            "Dishname": "Rajma_Masala",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "40 minutes",
+            "totalTime": " 1 hour",
+            "Serving": "4 servings",
+            "ingredients": "1 cup red kidney beans (soaked overnight), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Pressure cooks-soaked kidney beans with salt until soft (4-5 whistles). Heat oil in a pan and add cumin seeds. ",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Cook for 2-3 minutes. ",
+                "Add the cooked kidney beans and enough water for desired consistency. Simmer for 20 minutes. ",
+                "Sprinkle garam masala and garnish with fresh cilantro. ",
+                "Serve hot with rice or roti. "
+            ],
+            "nurtrition": {
+                "Calories":"290 kcal",
+                "Protein":" 13g",
+                "Fat":"20g",
+                "Fiber":"4g",
+                "Carbohydrates":"16g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 30,
+            "img": "Dishes Images/Gobhi manchurian.jpg",
+            "Dish": "Gobi Manchurian",
+            "Dishname": "Gobi_Manchurian",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 medium cauliflower (cut into florets), ¼ cup cornflour, 2 tbsp all-purpose flour (Maida), 1 tbsp soy sauce, 1 tbsp tomato ketchup, 1 tbsp chili sauce, 1 tsp ginger-garlic paste, 1 onion (chopped), 1 bell pepper (chopped), 1 green chili (chopped), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Mix cornflour, all-purpose flour, salt, and water to form a thick batter. ",
+                "Dip the cauliflower florets in the batter and deep-fry until golden brown. Set aside. ",
+                "Heat oil in a pan, add onions, bell peppers, and green chili. Sauté until soft. ",
+                "Add ginger-garlic paste, soy sauce, ketchup, and chili sauce. Stir-fry for a couple of minutes. ",
+                "Add the fried cauliflower florets and toss them in the sauce. ",
+                "Garnish with fresh cilantro and serve hot as a starter or with fried rice. "
+            ],
+            "nurtrition": {
+                "Calories":"280 kcal",
+                "Protein":" 5g",
+                "Fat":"16g",
+                "Fiber":"6g",
+                "Carbohydrates":"32g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 31,
+            "img": "Dishes Images/tofu tikka masala.jpg",
+            "Dish": "Tofu Tikka Masala",
+            "Dishname": "Tofu_Tikka_Masala",
+            "typeofDish": "Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "50 minutes",
+            "Serving": "4 servings",
+            "ingredients": "300g firm tofu (cubed), ½ cup yogurt, 1 tsp cumin powder, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 2 tbsp oil, 1 onion (chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ¼ cup fresh cream (optional), Salt to taste. ",
+            "instructions": [
+                "In a bowl, mix yogurt, cumin powder, coriander powder, turmeric, red chili powder, garam masala, lemon juice, and salt. Add tofu cubes and marinate for 30 minutes. ",
+                "Heat oil in a pan and fry the marinated tofu until golden brown. Set aside.",
+                "In the same pan, add cumin seeds, then onions, and sauté until golden. Add ginger-garlic paste, followed by tomato puree, and cook until the oil separates. ",
+                "Add the fried tofu, and if needed, add some water for desired consistency. Simmer for 5-7 minutes. ",
+                "Stir in fresh cream (optional) and cook for another 2 minutes. ",
+                "Garnish with cilantro and serve hot with naan or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"320 kcal",
+                "Protein":" 15g",
+                "Fat":"20g",
+                "Fiber":"4g",
+                "Carbohydrates":"16g"
+            }
         }
     },
 
 
     {
-        "id": 27,
-        "img": "Dishes Images/baingan bharta.jpg",
-        "Dish": "Baingan Bharta",
-        "Dishname": "Baingan_Bharta",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 large eggplants (brinjal/baingan), 1 large onion (finely chopped), 2 tomatoes (pureed), 2 green chilies (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Roast the eggplants over an open flame or in the oven until soft and charred. Peel the skin and mash the flesh. ",
-            "Heat oil in a pan and add cumin seeds. ",
-            "Add chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, and sauté for a minute. ",
-            "Add tomato puree, turmeric powder, coriander powder, and salt. Cook until the oil separates. ",
-            "Add the mashed eggplant and mix well. Cook for 5-7 minutes. Sprinkle garam masala and garnish with fresh cilantro. ",
-            "Serve hot with roti or paratha. "
-        ],
-        "nurtrition": {
-            "Calories":"140 kcal",
-            "Protein":" 3g",
-            "Fat":"8g",
-            "Fiber":"7g",
-            "Carbohydrates":"16g"
+        "name" : {
+            "id": 32,
+            "img": "Dishes Images/palak tofu.jpg",
+            "Dish": "Palak Tofu",
+            "Dishname": "Palak_Tofu",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "300g firm tofu (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, ½ tsp turmeric powder, ½ tsp red chili powder, 2 tbsp oil, Salt to taste. ",
+            "instructions": [
+                "Blanch spinach in hot water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree. ",
+                "Heat oil in a pan, add cumin seeds, and let them splutter. ",
+                "Add onions and sauté until golden brown. ",
+                "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
+                "Add turmeric, red chili powder, garam masala, and salt. Add spinach puree and cook for 5 minutes. ",
+                "Add tofu cubes and simmer for another 5-7 minutes. Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"240 kcal",
+                "Protein":" 14g",
+                "Fat":"7g",
+                "Fiber":"6g",
+                "Carbohydrates":"20g"
+            }
         }
     },
 
 
     {
-        "id": 28,
-        "img": "Dishes Images/vegetable biryani.jpg",
-        "Dish": "Vegetable Biryani",
-        "Dishname": "Vegetable_Biryani",
-        "typeofDish": "Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "40 minutes",
-        "totalTime": " 1 hour",
-        "Serving": "4 servings",
-        "ingredients": "1.5 cups basmati rice (soaked for 30 minutes), 1 cup mixed vegetables (carrots, peas, beans, cauliflower), 1 large onion (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 bay leaf, 1 cinnamon stick, 3 cloves, 1 tsp garam masala, 1 tsp biryani masala, ¼ cup yogurt, 2 tbsp oil or ghee, Fresh cilantro and mint leaves for garnish. ",
-        "instructions": [
-            "Cook the soaked basmati rice with a pinch of salt and set aside. ",
-            "Heat oil or ghee in a pan, add cumin seeds, bay leaf, cinnamon, and cloves. Sauté for a minute. Add sliced onions and cook until golden brown. ",
-            "Add ginger-garlic paste and green chili, sauté for a minute. Add chopped tomatoes and cook until oil separates. ",
-            "Add the mixed vegetables, biryani masala, garam masala, and salt. Cook for 5 minutes. Stir in yogurt and cook until vegetables are tender. ",
-            "Layer the vegetable mixture with cooked rice in a pan. Garnish with cilantro and mint leaves. ",
-            "Cover and let the biryani steam on low heat for 10 minutes. Serve hot with raita or a side of your choice. "
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 8g",
-            "Fat":"12g",
-            "Fiber":"6g",
-            "Carbohydrates":"60g"
+        "name" : {
+            "id": 33,
+            "img": "Dishes Images/mixed vegetables sabzi.jpg",
+            "Dish": "Mixed Vegetable Sabzi",
+            "Dishname": "Mixed_Vegetable_Sabzi",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 cups mixed vegetables (carrots, beans, peas, potatoes, cauliflower), 1 onion (chopped), 2 tomatoes (chopped), 1 green chili (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter. ",
+                "Add onions and sauté until golden brown. ",
+                "Add ginger-garlic paste, green chili, and tomatoes. Cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Stir well. ",
+                "Add the mixed vegetables and sauté for a few minutes. Add a little water, cover, and cook until the vegetables are tender (about 10 minutes). ",
+                "Sprinkle garam masala, mix well, and cook for another 2 minutes. ",
+                "Garnish with fresh cilantro and serve hot with roti or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"150 kcal",
+                "Protein":" 4g",
+                "Fat":"7g",
+                "Fiber":"6g",
+                "Carbohydrates":"20g"
+            }
         }
     },
 
 
     {
-        "id": 29,
-        "img": "Dishes Images/rajma masala.jpg",
-        "Dish": "Rajma Masala",
-        "Dishname": "Rajma_Masala",
-        "typeofDish": "Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "40 minutes",
-        "totalTime": " 1 hour",
-        "Serving": "4 servings",
-        "ingredients": "1 cup red kidney beans (soaked overnight), 1 large onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, 1 tsp garam masala, 1 tsp coriander powder, ½ tsp turmeric powder, 1 tsp red chili powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Pressure cooks-soaked kidney beans with salt until soft (4-5 whistles). Heat oil in a pan and add cumin seeds. ",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Cook for 2-3 minutes. ",
-            "Add the cooked kidney beans and enough water for desired consistency. Simmer for 20 minutes. ",
-            "Sprinkle garam masala and garnish with fresh cilantro. ",
-            "Serve hot with rice or roti. "
-        ],
-        "nurtrition": {
-            "Calories":"290 kcal",
-            "Protein":" 13g",
-            "Fat":"20g",
-            "Fiber":"4g",
-            "Carbohydrates":"16g"
+        "name" : {
+            "id": 34,
+            "img": "Dishes Images/paneer tikka.jpg",
+            "Dish": "Paneer Tikka",
+            "Dishname": "Paneer_Tikka",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "15 minutes",
+            "totalTime": "30 minutes",
+            "Serving": "4 servings",
+            "ingredients": "250g paneer (cubed), 1/2 cup yogurt, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 1 tbsp ginger-garlic paste, 1 onion (cut into large chunks), 1 bell pepper (cut into chunks), 1 tomato (cut into chunks), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "In a bowl, mix yogurt, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala, ginger-garlic paste, lemon juice, and salt.",
+                "Add paneer cubes, onion, bell pepper, and tomato to the marinade. Mix well and let it marinate for 1 hour.",
+                "Skewer the marinated paneer and vegetables alternately on skewers. ",
+                "Heat a grill pan or use a barbecue, brush with oil.",
+                " And grill the paneer skewers until golden and slightly charred on all sides. ",
+                "Serve hot, garnished with cilantro and lemon wedges. "
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 14g",
+                "Fat":"20g",
+                "Fiber":"7g",
+                "Carbohydrates":"16g"
+            }
         }
     },
 
 
     {
-        "id": 30,
-        "img": "Dishes Images/Gobhi manchurian.jpg",
-        "Dish": "Gobi Manchurian",
-        "Dishname": "Gobi_Manchurian",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "1 medium cauliflower (cut into florets), ¼ cup cornflour, 2 tbsp all-purpose flour (Maida), 1 tbsp soy sauce, 1 tbsp tomato ketchup, 1 tbsp chili sauce, 1 tsp ginger-garlic paste, 1 onion (chopped), 1 bell pepper (chopped), 1 green chili (chopped), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Mix cornflour, all-purpose flour, salt, and water to form a thick batter. ",
-            "Dip the cauliflower florets in the batter and deep-fry until golden brown. Set aside. ",
-            "Heat oil in a pan, add onions, bell peppers, and green chili. Sauté until soft. ",
-            "Add ginger-garlic paste, soy sauce, ketchup, and chili sauce. Stir-fry for a couple of minutes. ",
-            "Add the fried cauliflower florets and toss them in the sauce. ",
-            "Garnish with fresh cilantro and serve hot as a starter or with fried rice. "
-        ],
-        "nurtrition": {
-            "Calories":"280 kcal",
-            "Protein":" 5g",
-            "Fat":"16g",
-            "Fiber":"6g",
-            "Carbohydrates":"32g"
+        "name" : {
+            "id": 35,
+            "img": "Dishes Images/baingan ka bharta.jpg",
+            "Dish": "Baingan Ka Bharta",
+            "Dishname": "Baingan_Ka_Bharta",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 large eggplants (brinjal/baingan), 1 large onion (finely chopped), 2 tomatoes (pureed), 2 green chilies (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Roast the eggplants over an open flame or in the oven until soft and charred. Peel the skin and mash the flesh. ",
+                "Heat oil in a pan and add cumin seeds. ",
+                "Add chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, and sauté for a minute. ",
+                "Add tomato puree, turmeric powder, coriander powder, and salt. Cook until the oil separates. ",
+                "Add the mashed eggplant and mix well. Cook for 5-7 minutes. Sprinkle garam masala and garnish with fresh cilantro. ",
+                "Serve hot with roti or paratha. "
+            ],
+            "nurtrition": {
+                "Calories":"140 kcal",
+                "Protein":" 3g",
+                "Fat":"8g",
+                "Fiber":"7g",
+                "Carbohydrates":"16g"
+            }
         }
     },
 
 
     {
-        "id": 31,
-        "img": "Dishes Images/tofu tikka masala.jpg",
-        "Dish": "Tofu Tikka Masala",
-        "Dishname": "Tofu_Tikka_Masala",
-        "typeofDish": "Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "30 minutes",
-        "totalTime": "50 minutes",
-        "Serving": "4 servings",
-        "ingredients": "300g firm tofu (cubed), ½ cup yogurt, 1 tsp cumin powder, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 2 tbsp oil, 1 onion (chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ¼ cup fresh cream (optional), Salt to taste. ",
-        "instructions": [
-            "In a bowl, mix yogurt, cumin powder, coriander powder, turmeric, red chili powder, garam masala, lemon juice, and salt. Add tofu cubes and marinate for 30 minutes. ",
-            "Heat oil in a pan and fry the marinated tofu until golden brown. Set aside.",
-            "In the same pan, add cumin seeds, then onions, and sauté until golden. Add ginger-garlic paste, followed by tomato puree, and cook until the oil separates. ",
-            "Add the fried tofu, and if needed, add some water for desired consistency. Simmer for 5-7 minutes. ",
-            "Stir in fresh cream (optional) and cook for another 2 minutes. ",
-            "Garnish with cilantro and serve hot with naan or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"320 kcal",
-            "Protein":" 15g",
-            "Fat":"20g",
-            "Fiber":"4g",
-            "Carbohydrates":"16g"
+        "name" : {
+            "id": 36,
+            "img": "Dishes Images/aloo gobi.jpg",
+            "Dish": "Aloo Gobi",
+            "Dishname": "Aloo_Gobi",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "30 minutes",
+            "totalTime": "45 minutes",
+            "Serving": "4 servings",
+            "ingredients": "2 medium potatoes (cubed), 1 medium cauliflower (cut into florets), 1 onion (finely chopped), 2 tomatoes (chopped), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds, and let them splutter. ",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add chopped tomatoes and cook until the oil separates. ",
+                "Add turmeric, coriander powder, and salt. Stir well. ",
+                "Add potatoes and cauliflower, mix well, and cover the pan. Cook on low heat until the vegetables are tender. ",
+                "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice."
+            ],
+            "nurtrition": {
+                "Calories":"200 kcal",
+                "Protein":" 5g",
+                "Fat":"10g",
+                "Fiber":"6g",
+                "Carbohydrates":"24g"
+            }
+        }    
+    },
+
+
+    {
+        "name" : {
+            "id": 37,
+            "img": "Dishes Images/matar mushroom.jpg",
+            "Dish": "Matar Mushroom",
+            "Dishname": "Matar_Mushroom",
+            "typeofDish": "Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 cup green peas (fresh or frozen), 200g mushrooms (sliced), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (chopped), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan and add cumin seeds. ",
+                "Add chopped onions and sauté until golden brown. ",
+                "Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, and salt. Stir well. ",
+                "Add green peas and mushrooms, and cook for 10-12 minutes until the vegetables are tender. ",
+                "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"180 kcal",
+                "Protein":" 6g",
+                "Fat":"10g",
+                "Fiber":"4g",
+                "Carbohydrates":"18g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 38,
+            "img": "Dishes Images/vegetable jalfrezi.jpg",
+            "Dish": "Vegetable Jalfrezi",
+            "Dishname": "Vegetable_Jalfrezi",
+            "typeofDish": "Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "1 cup mixed vegetables (carrots, bell peppers, peas, and beans), 1 onion (sliced), 2 tomatoes (chopped), 1 green chili (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds, and let them splutter. ",
+                "Add onions and sauté until soft. ",
+                "Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add chopped tomatoes and cook until the oil separates. ",
+                "Add turmeric, coriander powder, red chili powder, and salt. Add the mixed vegetables and stir-fry for a few minutes. ",
+                "Sprinkle garam masala and cook for another 2 minutes. Garnish with fresh cilantro and serve hot with roti or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"190 kcal",
+                "Protein":" 6g",
+                "Fat":"9g",
+                "Fiber":"6g",
+                "Carbohydrates":"22g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 39,
+            "img": "Dishes Images/sag paneer.jpg",
+            "Dish": "Saag Paneer",
+            "Dishname": "Saag_Paneer",
+            "typeofDish": "Veg",
+            "preparationTime": "15 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "40 minutes",
+            "Serving": "4 servings",
+            "ingredients": "250g paneer (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
+            "instructions": [
+                "Blanch spinach in boiling water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree.",
+                "Heat oil in a pan, add cumin seeds and let them splutter.",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
+                "Add spinach puree and cook for 5-7 minutes. Add paneer cubes and cook for another 5 minutes..",
+                "Garnish with fresh cream (optional) and serve hot with roti or naan."
+            ],
+            "nurtrition": {
+                "Calories":"240 kcal",
+                "Protein":" 12g",
+                "Fat":"30g",
+                "Fiber":"6g",
+                "Carbohydrates":"10g"
+            }
         }
     },
 
 
     {
-        "id": 32,
-        "img": "Dishes Images/palak tofu.jpg",
-        "Dish": "Palak Tofu",
-        "Dishname": "Palak_Tofu",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "20 minutes",
-        "totalTime": "35 minutes",
-        "Serving": "4 servings",
-        "ingredients": "300g firm tofu (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp garam masala, ½ tsp turmeric powder, ½ tsp red chili powder, 2 tbsp oil, Salt to taste. ",
-        "instructions": [
-            "Blanch spinach in hot water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree. ",
-            "Heat oil in a pan, add cumin seeds, and let them splutter. ",
-            "Add onions and sauté until golden brown. ",
-            "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
-            "Add turmeric, red chili powder, garam masala, and salt. Add spinach puree and cook for 5 minutes. ",
-            "Add tofu cubes and simmer for another 5-7 minutes. Serve hot with roti or rice."
-        ],
-        "nurtrition": {
-            "Calories":"240 kcal",
-            "Protein":" 14g",
-            "Fat":"7g",
-            "Fiber":"6g",
-            "Carbohydrates":"20g"
+        "name" : 
+        {
+            "id": 40,
+            "img": "Dishes Images/kaju curry.jpg",
+            "Dish": "Kaju Curry",
+            "Dishname": "Kaju_Curry",
+            "typeofDish": "Veg",
+            "preparationTime": "10 miutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "30 minutes",
+            "Serving": "4 servings",
+            "ingredients": "½ cup cashew nuts, 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
+            "instructions": [
+                "Heat oil in a pan, add cumin seeds and let them splutter. ",
+                "Add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates.",
+                "Add turmeric, coriander powder, and salt. Mix well. Add cashew nuts and cook for 5 minutes.",
+                "Sprinkle garam masala and stir well. Cook for another 2 minutes.",
+                "Garnish with fresh cream (optional) and serve hot with roti or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 8g",
+                "Fat":"30g",
+                "Fiber":"4g",
+                "Carbohydrates":"24g"
+            }
         }
     },
 
 
     {
-        "id": 33,
-        "img": "Dishes Images/mixed vegetables sabzi.jpg",
-        "Dish": "Mixed Vegetable Sabzi",
-        "Dishname": "Mixed_Vegetable_Sabzi",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "20 minutes",
-        "totalTime": "35 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 cups mixed vegetables (carrots, beans, peas, potatoes, cauliflower), 1 onion (chopped), 2 tomatoes (chopped), 1 green chili (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds and let them splutter. ",
-            "Add onions and sauté until golden brown. ",
-            "Add ginger-garlic paste, green chili, and tomatoes. Cook until the oil separates. Add turmeric, coriander powder, red chili powder, and salt. Stir well. ",
-            "Add the mixed vegetables and sauté for a few minutes. Add a little water, cover, and cook until the vegetables are tender (about 10 minutes). ",
-            "Sprinkle garam masala, mix well, and cook for another 2 minutes. ",
-            "Garnish with fresh cilantro and serve hot with roti or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"150 kcal",
-            "Protein":" 4g",
-            "Fat":"7g",
-            "Fiber":"6g",
-            "Carbohydrates":"20g"
+        "name" :     {
+            "id": 41,
+            "img": "Dishes Images/Nihar.jpg",
+            "Dish": "Nihari",
+            "Dishname": "Nihari",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "30 Minutes",
+            "cockingTime": "4 Hours",
+            "totalTime": " 4 Hour 30 Minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton or beef (with bones), 1 large onion (sliced), 1 tbsp ginger-garlic paste, 1 tsp fennel seeds, 2-3 green cardamoms, 2 bay leaves, 1-inch cinnamon stick, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp garam masala, ½ tsp turmeric powder, 1 tbsp wheat flour (for thickening), 4 tbsp ghee or oil, Salt to taste.",
+            "instructions": [
+                "Heat ghee in a large pot and add cumin seeds, cardamoms, bay leaves, and cinnamon stick. Sauté for a minute.",
+                "Add onions and sauté until golden brown. Add ginger-garlic paste and cook for a couple of minutes.",
+                "Add mutton or beef pieces, turmeric powder, coriander powder, and salt. Cook until the meat is browned.",
+                "Add enough water to cover the meat, cover the pot, and simmer on low heat for 2-3 hours until the meat is tender.",
+                " In a small bowl, mix wheat flour with water to make a slurry. Add this to the stew to thicken it.",
+                "Sprinkle garam masala, cook for another 10 minutes, and adjust the consistency by adding water if needed. Garnish with fresh cilantro and lemon slices. Serve with naan or rice. "
+            ],
+            "nurtrition": { 
+                "Calories":"500 kcal",
+                "Protein":" 35g",
+                "Fat":"25g",
+                "Fiber":"6g",
+                "Carbohydrates":"30g"
+            }
+        }    
+    },
+
+
+
+    {
+        "name" : {
+            "id": 42,
+            "img": "Dishes Images/mutton paya.jpg",
+            "Dish": "Mutton Paya",
+            "Dishname": "Mutton_Paya",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 Minutes",
+            "cockingTime": "2-3 Hours",
+            "totalTime": " 2-3 Hours",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton trotters (paya), 1 onion (chopped), 1 tomato (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp red chili powder, 1 tsp garam masala, 4 tbsp oil, Fresh cilantro for garnish, Salt to taste.",
+            "instructions": [
+                "Heat oil in a large pot, add cumin seeds, and let them splutter. Add chopped onions and sauté until golden brown.",
+                "Add ginger-garlic paste and cook for a minute.",
+                "Add chopped tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil separates.",
+                "Add the mutton trotters and enough water to cover them. Cover the pot and simmer on low heat for 3-4 hours until the trotters are tender. ",
+                "Sprinkle garam masala, stir well, and simmer for another 15 minutes.",
+                "Garnish with fresh cilantro and serve hot with naan or rice."
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 25g",
+                "Fat":"22g",
+                "Fiber":"2g",
+                "Carbohydrates":"8g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 43,
+            "img": "Dishes Images/chicken chettinad.jpg",
+            "Dish": "Chicken Chettinad",
+            "Dishname": "Chicken_Chettinad",
+            "typeofDish": "Non-Veg",
+            "preparationTime": " 20 Minutes",
+            "cockingTime": " 40 Minutes",
+            "totalTime": " 1 Hour",
+            "Serving": "4 servings", 
+            "ingredients": "500g chicken (bone-in or boneless), 2 onions (finely chopped), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 2-3 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp coriander powder, 2 tbsp oil,1 tbsp fennel seed, 1 tbsp cumin seeds, 1 tbsp coriander seeds, 1 tsp black peppercorns, 2-3 dried red chilies, 4-5 cloves, 1-inch cinnamon stick, 2-3 green cardamoms, 2 tbsp grated coconut, Salt to taste. ",
+            "instructions": [
+                " Dry roast the Chettinad masala ingredients (except coconut) in a pan until fragrant. Add grated coconut and roast for another minute. Cool and grind to a fine powder.",
+                " Heat oil in a pan, add chopped onions, and sauté until golden brown.",
+                "Add ginger-garlic paste, green chilies, and chicken. Cook until the chicken changes color. ",
+                "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook until the oil separates. ",
+                "Add the prepared Chettinad masala, mix well, and cook for 5-7 minutes.  Add 1 cup of water, cover, and simmer until the chicken is tender.",
+                "Sprinkle garam masala, garnish with fresh curry leaves, and serve hot with rice or roti."
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 30g",
+                "Fat":"20g",
+                "Fiber":"3g",
+                "Carbohydrates":"10g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 44,
+            "img": "Dishes Images/chicken handi.jpg",
+            "Dish": "Chicken Handi",
+            "Dishname": "Chicken_Handi",
+            "typeofDish": "Non-Veg",
+            "preparationTime": " 15 Minutes",
+            "cockingTime": " 40 Minutes",
+            "totalTime": " 55 Minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 1 green chili (slit), ½ tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ¼ cup yogurt, ¼ cup fresh cream, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a clay pot or deep pan. Add onions and sauté until golden brown.",
+                " Add ginger-garlic paste and green chili, sauté for a minute. ",
+                "Add chicken, turmeric powder, red chili powder, coriander powder, and salt. Cook until the chicken is browned.",
+                "Add tomato puree and cook until the oil separates. Lower the heat and stir in yogurt. Cook for 5-7 minutes.",
+                "Add 1 cup of water, cover, and simmer until the chicken is tender. Stir in fresh cream and garam masala. Cook for another 5 minutes.",
+                "Garnish with cilantro and serve hot with naan or rice. "
+            ],
+            "nurtrition": {
+                "Calories":"400 kcal",
+                "Protein":" 35g",
+                "Fat":"22g",
+                "Fiber":"4g",
+                "Carbohydrates":"15g"
+            }
+        }    
+    },
+
+
+
+    {
+        "name" : {
+            "id": 45,
+            "img": "Dishes Images/mutton handi.jpg",
+            "Dish": "Mutton Handi",
+            "Dishname": "Mutton_Handi",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "20 minutes",
+            "cockingTime": "1 hour 30 minutes ",
+            "totalTime": "1 hour 50 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ½ cup yogurt, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
+            "instructions": [
+                "Heat oil in a clay pot or deep pan, add onions, and sauté until golden brown. ",
+                "Add ginger-garlic paste, green chilies, and mutton pieces. Cook until the mutton is browned.",
+                "Add turmeric powder, red chili powder, coriander powder, and salt. Mix well. ",
+                "Add tomato puree and cook until the oil separates.  Add yogurt, stir well, and cook for 10-15 minutes.",
+                "Add enough water to cover the mutton, cover the pot, and cook on low heat for 1 hour until the mutton is tender.",
+                "Sprinkle garam masala, garnish with cilantro, and serve hot with naan or rice."
+            ],
+            "nurtrition": {
+                "Calories":"450 kcal",
+                "Protein":" 30g",
+                "Fat":"30g",
+                "Fiber":"4g",
+                "Carbohydrates":"12g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" :  {
+            "id": 46,
+            "img": "Dishes Images/mutton dum biryani.jpg",
+            "Dish": "Mutton Dum Biryani",
+            "Dishname": "Mutton_Dum_Biryani",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "30 minutes",
+            "cockingTime": "1 hour",
+            "totalTime": " 1 hour 30 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton (bone-in), 2 cups basmati rice (soaked), 2 onions (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, ½ cup yogurt, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp biryani masala, 4 tbsp oil or ghee, Salt to taste, Fresh mint and cilantro for garnish, Saffron strands soaked in warm milk.",
+            "instructions": [
+                "Heat oil or ghee in a pan, fry sliced onions until golden brown, and set aside.",
+                "In the same pan, add ginger-garlic paste, green chilies, and mutton. Cook until browned.  Add turmeric powder, red chili powder, biryani masala, and salt. Stir well.",
+                "Add tomatoes and yogurt, cook until the oil separates and the mutton are tender (about 40-50 minutes).",
+                "Meanwhile, cook the rice in boiling water until 70% done. Drain and set aside. In a large pot, layer half the rice, then the mutton mixture, and top with the remaining rice.",
+                "Drizzle saffron milk, fried onions, and garnish with mint and cilantro. Cover with a tight-fitting lid and cook on low heat (Dum) for 20 minutes. ",
+                "Serve hot with raita."
+            ],
+            "nurtrition": {
+                "Calories":"500 kcal",
+                "Protein":" 30g",
+                "Fat":"20g",
+                "Fiber":"3g",
+                "Carbohydrates":"50g"
+            }
+        }
+    },
+
+
+
+    {
+        "name" : {
+            "id": 47,
+            "img": "Dishes Images/chicken dum biryani.jpg",
+            "Dish": "Chicken Dum Biryani",
+            "Dishname": "Chicken_Dum_Biryani",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "30 minutes",
+            "cockingTime": "1 hour",
+            "totalTime": " 1 hour 30 minutes ",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken (bone-in), 2 cups basmati rice (soaked for 30 minutes), 2 onions (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, ½ cup yogurt, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp biryani masala, 4 tbsp oil or ghee, Salt to taste, Fresh mint and cilantro for garnish, Saffron strands soaked in warm milk.",
+            "instructions": [
+                "Heat oil or ghee in a pan, fry sliced onions until golden brown, and set aside.",
+                "In the same pan, add ginger-garlic paste, green chilies, and chicken pieces. Cook until browned. Add turmeric powder, red chili powder, biryani masala, and salt. Stir well.",
+                "Add tomatoes and yogurt, and cook until the oil separates and the chicken is cooked through.  Meanwhile, cook the rice in boiling water until 70% done. Drain and set aside.",
+                "In a large pot, layer half the rice, then the chicken mixture, and top with the remaining rice.",
+                "Drizzle saffron milk, fried onions, and garnish with mint and cilantro. Cover with a tight-fitting lid and cook on low heat (Dum) for 20 minutes. ",
+                "Serve hot with raita."
+            ],
+            "nurtrition": {
+                "Calories":"450 kcal",
+                "Protein":" 35g",
+                "Fat":"15g",
+                "Fiber":"3g",
+                "Carbohydrates":"50g"
+            }
         }
     },
 
 
     {
-        "id": 34,
-        "img": "Dishes Images/paneer tikka.jpg",
-        "Dish": "Paneer Tikka",
-        "Dishname": "Paneer_Tikka",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "15 minutes",
-        "totalTime": "30 minutes",
-        "Serving": "4 servings",
-        "ingredients": "250g paneer (cubed), 1/2 cup yogurt, 1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp turmeric powder, 1/2 tsp red chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 1 tbsp ginger-garlic paste, 1 onion (cut into large chunks), 1 bell pepper (cut into chunks), 1 tomato (cut into chunks), 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "In a bowl, mix yogurt, cumin powder, coriander powder, turmeric powder, red chili powder, garam masala, ginger-garlic paste, lemon juice, and salt.",
-            "Add paneer cubes, onion, bell pepper, and tomato to the marinade. Mix well and let it marinate for 1 hour.",
-            "Skewer the marinated paneer and vegetables alternately on skewers. ",
-            "Heat a grill pan or use a barbecue, brush with oil.",
-            " And grill the paneer skewers until golden and slightly charred on all sides. ",
-            "Serve hot, garnished with cilantro and lemon wedges. "
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 14g",
-            "Fat":"20g",
-            "Fiber":"7g",
-            "Carbohydrates":"16g"
+        "name" : {
+            "id": 48,
+            "img": "Dishes Images/mutton liver fry.jpg",
+            "Dish": "Mutton Liver Fry",
+            "Dishname": "Mutton_Liver_Fry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "25 minutes",
+            "totalTime": "35 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g mutton liver (cleaned and cut into pieces), 2 onions (finely chopped), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                " Heat oil in a pan, add onions, and sauté until golden brown.",
+                " Add ginger-garlic paste and green chili, and cook for a minute.",
+                "Add mutton liver pieces, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
+                "Add chopped tomatoes and cook until the liver is fully cooked (about 10-12 minutes).",
+                " Sprinkle garam masala and cook for another 2-3 minutes.",
+                "Garnish with fresh cilantro and serve hot with rice or roti."
+            ],
+            "nurtrition": {
+                "Calories":"350 kcal",
+                "Protein":" 30g",
+                "Fat":"20g",
+                "Fiber":"8g",
+                "Carbohydrates":"8g"
+            }
         }
     },
 
 
     {
-        "id": 35,
-        "img": "Dishes Images/baingan ka bharta.jpg",
-        "Dish": "Baingan Ka Bharta",
-        "Dishname": "Baingan_Ka_Bharta",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "30 minutes",
-        "totalTime": "45 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 large eggplants (brinjal/baingan), 1 large onion (finely chopped), 2 tomatoes (pureed), 2 green chilies (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Roast the eggplants over an open flame or in the oven until soft and charred. Peel the skin and mash the flesh. ",
-            "Heat oil in a pan and add cumin seeds. ",
-            "Add chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, and sauté for a minute. ",
-            "Add tomato puree, turmeric powder, coriander powder, and salt. Cook until the oil separates. ",
-            "Add the mashed eggplant and mix well. Cook for 5-7 minutes. Sprinkle garam masala and garnish with fresh cilantro. ",
-            "Serve hot with roti or paratha. "
-        ],
-        "nurtrition": {
-            "Calories":"140 kcal",
-            "Protein":" 3g",
-            "Fat":"8g",
-            "Fiber":"7g",
-            "Carbohydrates":"16g"
+        "name" : {
+            "id": 49,
+            "img": "Dishes Images/chicken liver fry.jpg",
+            "Dish": "Chicken Liver Fry",
+            "Dishname": "Chicken_Liver_Fry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "30 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g chicken liver (cleaned and cut into pieces), 2 onions (sliced), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
+            "instructions": [
+                "Heat oil in a pan, add onions, and sauté until golden brown.",
+                "Add ginger-garlic paste and cook for a minute. ",
+                " Add chicken liver, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
+                "Add chopped tomatoes and cook until the liver is fully cooked (about 8-10 minutes).",
+                " Sprinkle garam masala and cook for another 2 minutes.",
+                "Garnish with fresh cilantro and serve hot with rice or roti."
+            ],
+            "nurtrition": {
+                "Calories":"300 kcal",
+                "Protein":" 28g",
+                "Fat":"20g",
+                "Fiber":"2g",
+                "Carbohydrates":"8g"
+            }
         }
     },
 
 
     {
-        "id": 36,
-        "img": "Dishes Images/aloo gobi.jpg",
-        "Dish": "Aloo Gobi",
-        "Dishname": "Aloo_Gobi",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "30 minutes",
-        "totalTime": "45 minutes",
-        "Serving": "4 servings",
-        "ingredients": "2 medium potatoes (cubed), 1 medium cauliflower (cut into florets), 1 onion (finely chopped), 2 tomatoes (chopped), 1 green chili (slit), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds, and let them splutter. ",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add chopped tomatoes and cook until the oil separates. ",
-            "Add turmeric, coriander powder, and salt. Stir well. ",
-            "Add potatoes and cauliflower, mix well, and cover the pan. Cook on low heat until the vegetables are tender. ",
-            "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice."
-        ],
-        "nurtrition": {
-            "Calories":"200 kcal",
-            "Protein":" 5g",
-            "Fat":"10g",
-            "Fiber":"6g",
-            "Carbohydrates":"24g"
-        }
-    },
-
-
-    {
-        "id": 37,
-        "img": "Dishes Images/matar mushroom.jpg",
-        "Dish": "Matar Mushroom",
-        "Dishname": "Matar_Mushroom",
-        "typeofDish": "Veg",
-        "preparationTime": "10 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "35 minutes",
-        "Serving": "4 servings",
-        "ingredients": "1 cup green peas (fresh or frozen), 200g mushrooms (sliced), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (chopped), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Heat oil in a pan and add cumin seeds. ",
-            "Add chopped onions and sauté until golden brown. ",
-            "Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add tomato puree and cook until the oil separates. Add turmeric, coriander powder, and salt. Stir well. ",
-            "Add green peas and mushrooms, and cook for 10-12 minutes until the vegetables are tender. ",
-            "Sprinkle garam masala and garnish with fresh cilantro. Serve hot with roti or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"180 kcal",
-            "Protein":" 6g",
-            "Fat":"10g",
-            "Fiber":"4g",
-            "Carbohydrates":"18g"
-        }
-    },
-
-
-    {
-        "id": 38,
-        "img": "Dishes Images/vegetable jalfrezi.jpg",
-        "Dish": "Vegetable Jalfrezi",
-        "Dishname": "Vegetable_Jalfrezi",
-        "typeofDish": "Veg",
-        "preparationTime": "10 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "35 minutes",
-        "Serving": "4 servings",
-        "ingredients": "1 cup mixed vegetables (carrots, bell peppers, peas, and beans), 1 onion (sliced), 2 tomatoes (chopped), 1 green chili (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, 1 tsp coriander powder, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds, and let them splutter. ",
-            "Add onions and sauté until soft. ",
-            "Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add chopped tomatoes and cook until the oil separates. ",
-            "Add turmeric, coriander powder, red chili powder, and salt. Add the mixed vegetables and stir-fry for a few minutes. ",
-            "Sprinkle garam masala and cook for another 2 minutes. Garnish with fresh cilantro and serve hot with roti or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"190 kcal",
-            "Protein":" 6g",
-            "Fat":"9g",
-            "Fiber":"6g",
-            "Carbohydrates":"22g"
-        }
-    },
-
-
-    {
-        "id": 39,
-        "img": "Dishes Images/sag paneer.jpg",
-        "Dish": "Saag Paneer",
-        "Dishname": "Saag_Paneer",
-        "typeofDish": "Veg",
-        "preparationTime": "15 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "40 minutes",
-        "Serving": "4 servings",
-        "ingredients": "250g paneer (cubed), 300g spinach (palak), 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, ½ tsp red chili powder, 1 tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
-        "instructions": [
-            "Blanch spinach in boiling water for 2-3 minutes, then transfer to cold water. Blend into a smooth puree.",
-            "Heat oil in a pan, add cumin seeds and let them splutter.",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates. ",
-            "Add spinach puree and cook for 5-7 minutes. Add paneer cubes and cook for another 5 minutes..",
-            "Garnish with fresh cream (optional) and serve hot with roti or naan."
-        ],
-        "nurtrition": {
-            "Calories":"240 kcal",
-            "Protein":" 12g",
-            "Fat":"30g",
-            "Fiber":"6g",
-            "Carbohydrates":"10g"
-        }
-    },
-
-
-    {
-        "id": 40,
-        "img": "Dishes Images/kaju curry.jpg",
-        "Dish": "Kaju Curry",
-        "Dishname": "Kaju_Curry",
-        "typeofDish": "Veg",
-        "preparationTime": "10 miutes",
-        "cockingTime": "20 minutes",
-        "totalTime": "30 minutes",
-        "Serving": "4 servings",
-        "ingredients": "½ cup cashew nuts, 1 onion (finely chopped), 2 tomatoes (pureed), 1 tsp ginger-garlic paste, 1 green chili (slit), 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp garam masala, 2 tbsp oil, Salt to taste, Fresh cream (optional) for garnish.",
-        "instructions": [
-            "Heat oil in a pan, add cumin seeds and let them splutter. ",
-            "Add chopped onions and sauté until golden brown.",
-            "Add ginger-garlic paste, green chili, and tomato puree. Cook until the oil separates.",
-            "Add turmeric, coriander powder, and salt. Mix well. Add cashew nuts and cook for 5 minutes.",
-            "Sprinkle garam masala and stir well. Cook for another 2 minutes.",
-            "Garnish with fresh cream (optional) and serve hot with roti or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 8g",
-            "Fat":"30g",
-            "Fiber":"4g",
-            "Carbohydrates":"24g"
-        }
-    },
-
-
-    {
-        "id": 41,
-        "img": "Dishes Images/Nihar.jpg",
-        "Dish": "Nihari",
-        "Dishname": "Nihari",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "30 Minutes",
-        "cockingTime": "4 Hours",
-        "totalTime": " 4 Hour 30 Minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton or beef (with bones), 1 large onion (sliced), 1 tbsp ginger-garlic paste, 1 tsp fennel seeds, 2-3 green cardamoms, 2 bay leaves, 1-inch cinnamon stick, 1 tsp cumin seeds, 1 tsp coriander powder, 1 tsp garam masala, ½ tsp turmeric powder, 1 tbsp wheat flour (for thickening), 4 tbsp ghee or oil, Salt to taste.",
-        "instructions": [
-            "Heat ghee in a large pot and add cumin seeds, cardamoms, bay leaves, and cinnamon stick. Sauté for a minute.",
-            "Add onions and sauté until golden brown. Add ginger-garlic paste and cook for a couple of minutes.",
-            "Add mutton or beef pieces, turmeric powder, coriander powder, and salt. Cook until the meat is browned.",
-            "Add enough water to cover the meat, cover the pot, and simmer on low heat for 2-3 hours until the meat is tender.",
-            " In a small bowl, mix wheat flour with water to make a slurry. Add this to the stew to thicken it.",
-            "Sprinkle garam masala, cook for another 10 minutes, and adjust the consistency by adding water if needed. Garnish with fresh cilantro and lemon slices. Serve with naan or rice. "
-        ],
-        "nurtrition": { 
-            "Calories":"500 kcal",
-            "Protein":" 35g",
-            "Fat":"25g",
-            "Fiber":"6g",
-            "Carbohydrates":"30g"
-        }
-    },
-
-
-    {
-        "id": 42,
-        "img": "Dishes Images/mutton paya.jpg",
-        "Dish": "Mutton Paya",
-        "Dishname": "Mutton_Paya",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 Minutes",
-        "cockingTime": "2-3 Hours",
-        "totalTime": " 2-3 Hours",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton trotters (paya), 1 onion (chopped), 1 tomato (chopped), 1 tsp ginger-garlic paste, 1 tsp cumin seeds, ½ tsp turmeric powder, 1 tsp coriander powder, ½ tsp red chili powder, 1 tsp garam masala, 4 tbsp oil, Fresh cilantro for garnish, Salt to taste.",
-        "instructions": [
-            "Heat oil in a large pot, add cumin seeds, and let them splutter. Add chopped onions and sauté until golden brown.",
-            "Add ginger-garlic paste and cook for a minute.",
-            "Add chopped tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil separates.",
-            "Add the mutton trotters and enough water to cover them. Cover the pot and simmer on low heat for 3-4 hours until the trotters are tender. ",
-            "Sprinkle garam masala, stir well, and simmer for another 15 minutes.",
-            "Garnish with fresh cilantro and serve hot with naan or rice."
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 25g",
-            "Fat":"22g",
-            "Fiber":"2g",
-            "Carbohydrates":"8g"
-        }
-    },
-
-
-    {
-        "id": 43,
-        "img": "Dishes Images/chicken chettinad.jpg",
-        "Dish": "Chicken Chettinad",
-        "Dishname": "Chicken_Chettinad",
-        "typeofDish": "Non-Veg",
-        "preparationTime": " 20 Minutes",
-        "cockingTime": " 40 Minutes",
-        "totalTime": " 1 Hour",
-        "Serving": "4 servings", 
-        "ingredients": "500g chicken (bone-in or boneless), 2 onions (finely chopped), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, 2-3 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp coriander powder, 2 tbsp oil,1 tbsp fennel seed, 1 tbsp cumin seeds, 1 tbsp coriander seeds, 1 tsp black peppercorns, 2-3 dried red chilies, 4-5 cloves, 1-inch cinnamon stick, 2-3 green cardamoms, 2 tbsp grated coconut, Salt to taste. ",
-        "instructions": [
-            " Dry roast the Chettinad masala ingredients (except coconut) in a pan until fragrant. Add grated coconut and roast for another minute. Cool and grind to a fine powder.",
-            " Heat oil in a pan, add chopped onions, and sauté until golden brown.",
-            "Add ginger-garlic paste, green chilies, and chicken. Cook until the chicken changes color. ",
-            "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and salt. Cook until the oil separates. ",
-            "Add the prepared Chettinad masala, mix well, and cook for 5-7 minutes.  Add 1 cup of water, cover, and simmer until the chicken is tender.",
-            "Sprinkle garam masala, garnish with fresh curry leaves, and serve hot with rice or roti."
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 30g",
-            "Fat":"20g",
-            "Fiber":"3g",
-            "Carbohydrates":"10g"
-        }
-    },
-
-
-    {
-        "id": 44,
-        "img": "Dishes Images/chicken handi.jpg",
-        "Dish": "Chicken Handi",
-        "Dishname": "Chicken_Handi",
-        "typeofDish": "Non-Veg",
-        "preparationTime": " 15 Minutes",
-        "cockingTime": " 40 Minutes",
-        "totalTime": " 55 Minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 1 green chili (slit), ½ tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ¼ cup yogurt, ¼ cup fresh cream, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
-        "instructions": [
-            "Heat oil in a clay pot or deep pan. Add onions and sauté until golden brown.",
-            " Add ginger-garlic paste and green chili, sauté for a minute. ",
-            "Add chicken, turmeric powder, red chili powder, coriander powder, and salt. Cook until the chicken is browned.",
-            "Add tomato puree and cook until the oil separates. Lower the heat and stir in yogurt. Cook for 5-7 minutes.",
-            "Add 1 cup of water, cover, and simmer until the chicken is tender. Stir in fresh cream and garam masala. Cook for another 5 minutes.",
-            "Garnish with cilantro and serve hot with naan or rice. "
-        ],
-        "nurtrition": {
-            "Calories":"400 kcal",
-            "Protein":" 35g",
-            "Fat":"22g",
-            "Fiber":"4g",
-            "Carbohydrates":"15g"
-        }
-    },
-
-
-    {
-        "id": 45,
-        "img": "Dishes Images/mutton handi.jpg",
-        "Dish": "Mutton Handi",
-        "Dishname": "Mutton_Handi",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "20 minutes",
-        "cockingTime": "1 hour 30 minutes ",
-        "totalTime": "1 hour 50 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton (bone-in), 2 onions (finely chopped), 2 tomatoes (pureed), 1 tbsp ginger-garlic paste, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 1 tsp garam masala, ½ cup yogurt, 3 tbsp oil, Salt to taste, Fresh cilantro for garnish.",
-        "instructions": [
-            "Heat oil in a clay pot or deep pan, add onions, and sauté until golden brown. ",
-            "Add ginger-garlic paste, green chilies, and mutton pieces. Cook until the mutton is browned.",
-            "Add turmeric powder, red chili powder, coriander powder, and salt. Mix well. ",
-            "Add tomato puree and cook until the oil separates.  Add yogurt, stir well, and cook for 10-15 minutes.",
-            "Add enough water to cover the mutton, cover the pot, and cook on low heat for 1 hour until the mutton is tender.",
-            "Sprinkle garam masala, garnish with cilantro, and serve hot with naan or rice."
-        ],
-        "nurtrition": {
-            "Calories":"450 kcal",
-            "Protein":" 30g",
-            "Fat":"30g",
-            "Fiber":"4g",
-            "Carbohydrates":"12g"
-        }
-    },
-
-
-    {
-        "id": 46,
-        "img": "Dishes Images/mutton dum biryani.jpg",
-        "Dish": "Mutton Dum Biryani",
-        "Dishname": "Mutton_Dum_Biryani",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "30 minutes",
-        "cockingTime": "1 hour",
-        "totalTime": " 1 hour 30 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton (bone-in), 2 cups basmati rice (soaked), 2 onions (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, ½ cup yogurt, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp biryani masala, 4 tbsp oil or ghee, Salt to taste, Fresh mint and cilantro for garnish, Saffron strands soaked in warm milk.",
-        "instructions": [
-            "Heat oil or ghee in a pan, fry sliced onions until golden brown, and set aside.",
-            "In the same pan, add ginger-garlic paste, green chilies, and mutton. Cook until browned.  Add turmeric powder, red chili powder, biryani masala, and salt. Stir well.",
-            "Add tomatoes and yogurt, cook until the oil separates and the mutton are tender (about 40-50 minutes).",
-            "Meanwhile, cook the rice in boiling water until 70% done. Drain and set aside. In a large pot, layer half the rice, then the mutton mixture, and top with the remaining rice.",
-            "Drizzle saffron milk, fried onions, and garnish with mint and cilantro. Cover with a tight-fitting lid and cook on low heat (Dum) for 20 minutes. ",
-            "Serve hot with raita."
-        ],
-        "nurtrition": {
-            "Calories":"500 kcal",
-            "Protein":" 30g",
-            "Fat":"20g",
-            "Fiber":"3g",
-            "Carbohydrates":"50g"
-        }
-    },
-
-
-    {
-        "id": 47,
-        "img": "Dishes Images/chicken dum biryani.jpg",
-        "Dish": "Chicken Dum Biryani",
-        "Dishname": "Chicken_Dum_Biryani",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "30 minutes",
-        "cockingTime": "1 hour",
-        "totalTime": " 1 hour 30 minutes ",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken (bone-in), 2 cups basmati rice (soaked for 30 minutes), 2 onions (sliced), 2 tomatoes (chopped), 1 tbsp ginger-garlic paste, ½ cup yogurt, 2 green chilies (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tbsp biryani masala, 4 tbsp oil or ghee, Salt to taste, Fresh mint and cilantro for garnish, Saffron strands soaked in warm milk.",
-        "instructions": [
-            "Heat oil or ghee in a pan, fry sliced onions until golden brown, and set aside.",
-            "In the same pan, add ginger-garlic paste, green chilies, and chicken pieces. Cook until browned. Add turmeric powder, red chili powder, biryani masala, and salt. Stir well.",
-            "Add tomatoes and yogurt, and cook until the oil separates and the chicken is cooked through.  Meanwhile, cook the rice in boiling water until 70% done. Drain and set aside.",
-            "In a large pot, layer half the rice, then the chicken mixture, and top with the remaining rice.",
-            "Drizzle saffron milk, fried onions, and garnish with mint and cilantro. Cover with a tight-fitting lid and cook on low heat (Dum) for 20 minutes. ",
-            "Serve hot with raita."
-        ],
-        "nurtrition": {
-            "Calories":"450 kcal",
-            "Protein":" 35g",
-            "Fat":"15g",
-            "Fiber":"3g",
-            "Carbohydrates":"50g"
-        }
-    },
-
-
-    {
-        "id": 48,
-        "img": "Dishes Images/mutton liver fry.jpg",
-        "Dish": "Mutton Liver Fry",
-        "Dishname": "Mutton_Liver_Fry",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "10 minutes",
-        "cockingTime": "25 minutes",
-        "totalTime": "35 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g mutton liver (cleaned and cut into pieces), 2 onions (finely chopped), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 green chili (slit), 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            " Heat oil in a pan, add onions, and sauté until golden brown.",
-            " Add ginger-garlic paste and green chili, and cook for a minute.",
-            "Add mutton liver pieces, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
-            "Add chopped tomatoes and cook until the liver is fully cooked (about 10-12 minutes).",
-            " Sprinkle garam masala and cook for another 2-3 minutes.",
-            "Garnish with fresh cilantro and serve hot with rice or roti."
-        ],
-        "nurtrition": {
-            "Calories":"350 kcal",
-            "Protein":" 30g",
-            "Fat":"20g",
-            "Fiber":"8g",
-            "Carbohydrates":"8g"
-        }
-    },
-
-
-    {
-        "id": 49,
-        "img": "Dishes Images/chicken liver fry.jpg",
-        "Dish": "Chicken Liver Fry",
-        "Dishname": "Chicken_Liver_Fry",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "10 minutes",
-        "cockingTime": "20 minutes",
-        "totalTime": "30 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g chicken liver (cleaned and cut into pieces), 2 onions (sliced), 1 tomato (chopped), 1 tbsp ginger-garlic paste, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp garam masala, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh cilantro for garnish. ",
-        "instructions": [
-            "Heat oil in a pan, add onions, and sauté until golden brown.",
-            "Add ginger-garlic paste and cook for a minute. ",
-            " Add chicken liver, turmeric powder, red chili powder, coriander powder, and salt. Stir well.",
-            "Add chopped tomatoes and cook until the liver is fully cooked (about 8-10 minutes).",
-            " Sprinkle garam masala and cook for another 2 minutes.",
-            "Garnish with fresh cilantro and serve hot with rice or roti."
-        ],
-        "nurtrition": {
-            "Calories":"300 kcal",
-            "Protein":" 28g",
-            "Fat":"20g",
-            "Fiber":"2g",
-            "Carbohydrates":"8g"
-        }
-    },
-
-
-    {
-        "id": 50,
-        "img": "Dishes Images/fish pepper fry.jpg",
-        "Dish": "Fish Peppar Fry",
-        "Dishname": "Fish_Peppar_Fry",
-        "typeofDish": "Non-Veg",
-        "preparationTime": "10 minutes",
-        "cockingTime": "20 minutes",
-        "totalTime": "30 minutes",
-        "Serving": "4 servings",
-        "ingredients": "500g fish fillets (cleaned and cut into pieces), 1 onion (sliced), 1 tbsp ginger-garlic paste, 2-3 green chilies (slit), 1 tsp black pepper powder, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh curry leaves for garnish, Lemon wedges for serving.",
-        "instructions": [
-            "Heat oil in a pan, add sliced onions, and sauté until golden brown.",
-            "Add ginger-garlic paste and green chilies, and cook for a minute.",
-            "Add fish pieces, turmeric powder, red chili powder, coriander powder, black pepper powder, and salt. ",
-            "Cook gently on medium heat for 5-7 minutes.",
-            " Turn the fish pieces carefully and cook until done.",
-            "Garnish with fresh curry leaves and serve with lemon wedges."
-        ],
-        "nurtrition": {
-            "Calories":"250 kcal",
-            "Protein":" 30g",
-            "Fat":"18g",
-            "Fiber":"2g",
-            "Carbohydrates":"6g"
+        "name" :  {
+            "id": 50,
+            "img": "Dishes Images/fish pepper fry.jpg",
+            "Dish": "Fish Peppar Fry",
+            "Dishname": "Fish_Peppar_Fry",
+            "typeofDish": "Non-Veg",
+            "preparationTime": "10 minutes",
+            "cockingTime": "20 minutes",
+            "totalTime": "30 minutes",
+            "Serving": "4 servings",
+            "ingredients": "500g fish fillets (cleaned and cut into pieces), 1 onion (sliced), 1 tbsp ginger-garlic paste, 2-3 green chilies (slit), 1 tsp black pepper powder, 1 tsp turmeric powder, 1 tsp red chili powder, 1 tsp coriander powder, 2 tbsp oil, Salt to taste, Fresh curry leaves for garnish, Lemon wedges for serving.",
+            "instructions": [
+                "Heat oil in a pan, add sliced onions, and sauté until golden brown.",
+                "Add ginger-garlic paste and green chilies, and cook for a minute.",
+                "Add fish pieces, turmeric powder, red chili powder, coriander powder, black pepper powder, and salt. ",
+                "Cook gently on medium heat for 5-7 minutes.",
+                " Turn the fish pieces carefully and cook until done.",
+                "Garnish with fresh curry leaves and serve with lemon wedges."
+            ],
+            "nurtrition": {
+                "Calories":"250 kcal",
+                "Protein":" 30g",
+                "Fat":"18g",
+                "Fiber":"2g",
+                "Carbohydrates":"6g"
+            }
         }
     }
 
-
-
-
-
-
-
-
+   
 
 
 ]
